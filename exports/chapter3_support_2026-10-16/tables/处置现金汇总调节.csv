@@ -1,0 +1,5 @@
+﻿item,value,year,source_file,pdf_page,source_line,scope
+cash_current_disposals,333307141.79,2025,20260428.pdf,209,"本期处置子公司于本期收到的现金或现金等价物 333,307,141.79",aggregate_not_project_receipt
+cash_departing_subsidiaries,90590674.96,2025,20260428.pdf,209,"减：丧失控制权日子公司持有的现金及现金等价物 90,590,674.96",aggregate_not_project_receipt
+cash_prior_disposals,116881545.72,2025,20260428.pdf,209,"加：以前期间处置子公司于本期收到的现金或现金等价物 116,881,545.72",aggregate_not_project_receipt
+net_disposal_cash,359598012.55,2025,20260428.pdf,209,"处置子公司收到的现金净额 359,598,012.55",aggregate_not_project_receipt

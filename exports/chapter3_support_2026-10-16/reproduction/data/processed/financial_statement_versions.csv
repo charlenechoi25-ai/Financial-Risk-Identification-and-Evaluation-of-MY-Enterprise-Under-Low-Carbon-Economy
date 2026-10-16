@@ -1,0 +1,715 @@
+﻿report_year,data_year,version,statement,metric,label,value,unit,scope,source_file,pdf_page,source_line,status,column
+2019,2019,current,BS,cash,货币资金,10773039557.63,CNY,consolidated,20200421.pdf,97,"货币资金 七、1 10,773,039,557.63 3,312,625,713.90",source_numeric,1
+2019,2018,comparative,BS,cash,货币资金,3312625713.90,CNY,consolidated,20200421.pdf,97,"货币资金 七、1 10,773,039,557.63 3,312,625,713.90",source_numeric,2
+2019,2019,current,BS,bills_receivable,应收票据,2925000.00,CNY,consolidated,20200421.pdf,97,"应收票据 七、4 2,925,000.00 422,906,059.03",source_numeric,1
+2019,2018,comparative,BS,bills_receivable,应收票据,422906059.03,CNY,consolidated,20200421.pdf,97,"应收票据 七、4 2,925,000.00 422,906,059.03",source_numeric,2
+2019,2019,current,BS,receivables,应收账款,4751530667.67,CNY,consolidated,20200421.pdf,97,"应收账款 七、5 4,751,530,667.67 5,489,399,676.24",source_numeric,1
+2019,2018,comparative,BS,receivables,应收账款,5489399676.24,CNY,consolidated,20200421.pdf,97,"应收账款 七、5 4,751,530,667.67 5,489,399,676.24",source_numeric,2
+2019,2019,current,BS,receivables_financing,应收款项融资,826531754.39,CNY,consolidated,20200421.pdf,98,"应收款项融资 七、6 826,531,754.39",source_numeric,1
+2019,2018,comparative,BS,receivables_financing,应收款项融资,,CNY,consolidated,20200421.pdf,98,"应收款项融资 七、6 826,531,754.39",source_blank_not_zero,2
+2019,2019,current,BS,prepayments,预付款项,1178728133.16,CNY,consolidated,20200421.pdf,98,"预付款项 七、7 1,178,728,133.16 233,181,168.36",source_numeric,1
+2019,2018,comparative,BS,prepayments,预付款项,233181168.36,CNY,consolidated,20200421.pdf,98,"预付款项 七、7 1,178,728,133.16 233,181,168.36",source_numeric,2
+2019,2019,current,BS,inventory,存货,2811417105.44,CNY,consolidated,20200421.pdf,98,"存货 七、9 2,811,417,105.44 1,444,688,392.26",source_numeric,1
+2019,2018,comparative,BS,inventory,存货,1444688392.26,CNY,consolidated,20200421.pdf,98,"存货 七、9 2,811,417,105.44 1,444,688,392.26",source_numeric,2
+2019,2019,current,BS,contract_assets,合同资产,,CNY,consolidated,20200421.pdf,98,合同资产 七、10,source_blank_not_zero,1
+2019,2018,comparative,BS,contract_assets,合同资产,,CNY,consolidated,20200421.pdf,98,合同资产 七、10,source_blank_not_zero,2
+2019,2019,current,BS,current_assets,流动资产合计,22579527773.84,CNY,consolidated,20200421.pdf,98,"流动资产合计 22,579,527,773.84 11,662,795,096.88",source_numeric,1
+2019,2018,comparative,BS,current_assets,流动资产合计,11662795096.88,CNY,consolidated,20200421.pdf,98,"流动资产合计 22,579,527,773.84 11,662,795,096.88",source_numeric,2
+2019,2019,current,BS,fixed_assets,固定资产,4655768738.20,CNY,consolidated,20200421.pdf,98,"固定资产 七、21 4,655,768,738.20 5,185,295,199.38",source_numeric,1
+2019,2018,comparative,BS,fixed_assets,固定资产,5185295199.38,CNY,consolidated,20200421.pdf,98,"固定资产 七、21 4,655,768,738.20 5,185,295,199.38",source_numeric,2
+2019,2019,current,BS,construction,在建工程,2419880138.30,CNY,consolidated,20200421.pdf,98,"在建工程 七、22 2,419,880,138.30 1,037,221,912.24",source_numeric,1
+2019,2018,comparative,BS,construction,在建工程,1037221912.24,CNY,consolidated,20200421.pdf,98,"在建工程 七、22 2,419,880,138.30 1,037,221,912.24",source_numeric,2
+2019,2019,current,BS,intangibles,无形资产,1028401882.35,CNY,consolidated,20200421.pdf,98,"无形资产 七、26 1,028,401,882.35 836,496,205.75",source_numeric,1
+2019,2018,comparative,BS,intangibles,无形资产,836496205.75,CNY,consolidated,20200421.pdf,98,"无形资产 七、26 1,028,401,882.35 836,496,205.75",source_numeric,2
+2019,2019,current,BS,development_costs,开发支出,68243753.93,CNY,consolidated,20200421.pdf,98,"开发支出 七、27 68,243,753.93 85,750,643.17",source_numeric,1
+2019,2018,comparative,BS,development_costs,开发支出,85750643.17,CNY,consolidated,20200421.pdf,98,"开发支出 七、27 68,243,753.93 85,750,643.17",source_numeric,2
+2019,2019,current,BS,total_assets,资产总计,34695611037.01,CNY,consolidated,20200421.pdf,98,"资产总计 34,695,611,037.01 22,331,835,099.33",source_numeric,1
+2019,2018,comparative,BS,total_assets,资产总计,22331835099.33,CNY,consolidated,20200421.pdf,98,"资产总计 34,695,611,037.01 22,331,835,099.33",source_numeric,2
+2019,2019,current,BS,short_loans,短期借款,1374635099.07,CNY,consolidated,20200421.pdf,98,"短期借款 七、32 1,374,635,099.07 1,285,260,322.26",source_numeric,1
+2019,2018,comparative,BS,short_loans,短期借款,1285260322.26,CNY,consolidated,20200421.pdf,98,"短期借款 七、32 1,374,635,099.07 1,285,260,322.26",source_numeric,2
+2019,2019,current,BS,bills_payable,应付票据,2728682840.82,CNY,consolidated,20200421.pdf,98,"应付票据 七、35 2,728,682,840.82 1,529,045,429.04",source_numeric,1
+2019,2018,comparative,BS,bills_payable,应付票据,1529045429.04,CNY,consolidated,20200421.pdf,98,"应付票据 七、35 2,728,682,840.82 1,529,045,429.04",source_numeric,2
+2019,2019,current,BS,payables,应付账款,4804911016.69,CNY,consolidated,20200421.pdf,99,"应付账款 七、36 4,804,911,016.69 4,070,278,212.58",source_numeric,1
+2019,2018,comparative,BS,payables,应付账款,4070278212.58,CNY,consolidated,20200421.pdf,99,"应付账款 七、36 4,804,911,016.69 4,070,278,212.58",source_numeric,2
+2019,2019,current,BS,advance_receipts,预收款项,6858917435.34,CNY,consolidated,20200421.pdf,99,"预收款项 七、37 6,858,917,435.34 1,863,640,620.26",source_numeric,1
+2019,2018,comparative,BS,advance_receipts,预收款项,1863640620.26,CNY,consolidated,20200421.pdf,99,"预收款项 七、37 6,858,917,435.34 1,863,640,620.26",source_numeric,2
+2019,2019,current,BS,contract_liabilities,合同负债,,CNY,consolidated,20200421.pdf,99,合同负债 七、38,source_blank_not_zero,1
+2019,2018,comparative,BS,contract_liabilities,合同负债,,CNY,consolidated,20200421.pdf,99,合同负债 七、38,source_blank_not_zero,2
+2019,2019,current,BS,current_debt_maturities,一年内到期的非流动负债,608805396.01,CNY,consolidated,20200421.pdf,99,"一年内到期的非流动负债 七、43 608,805,396.01 462,206,436.29",source_numeric,1
+2019,2018,comparative,BS,current_debt_maturities,一年内到期的非流动负债,462206436.29,CNY,consolidated,20200421.pdf,99,"一年内到期的非流动负债 七、43 608,805,396.01 462,206,436.29",source_numeric,2
+2019,2019,current,BS,current_liabilities,流动负债合计,18162472275.19,CNY,consolidated,20200421.pdf,99,"流动负债合计 18,162,472,275.19 10,099,278,449.40",source_numeric,1
+2019,2018,comparative,BS,current_liabilities,流动负债合计,10099278449.40,CNY,consolidated,20200421.pdf,99,"流动负债合计 18,162,472,275.19 10,099,278,449.40",source_numeric,2
+2019,2019,current,BS,long_loans,长期借款,2848502023.20,CNY,consolidated,20200421.pdf,99,"长期借款 七、45 2,848,502,023.20 3,105,841,186.40",source_numeric,1
+2019,2018,comparative,BS,long_loans,长期借款,3105841186.40,CNY,consolidated,20200421.pdf,99,"长期借款 七、45 2,848,502,023.20 3,105,841,186.40",source_numeric,2
+2019,2019,current,BS,bonds,应付债券,1805426328.96,CNY,consolidated,20200421.pdf,99,"应付债券 七、46 1,805,426,328.96 484,418,780.81",source_numeric,1
+2019,2018,comparative,BS,bonds,应付债券,484418780.81,CNY,consolidated,20200421.pdf,99,"应付债券 七、46 1,805,426,328.96 484,418,780.81",source_numeric,2
+2019,2019,current,BS,lease_liabilities,租赁负债,,CNY,consolidated,20200421.pdf,99,租赁负债 七、47,source_blank_not_zero,1
+2019,2018,comparative,BS,lease_liabilities,租赁负债,,CNY,consolidated,20200421.pdf,99,租赁负债 七、47,source_blank_not_zero,2
+2019,2019,current,BS,total_liabilities,负债合计,27603639445.69,CNY,consolidated,20200421.pdf,99,"负债合计 27,603,639,445.69 17,443,639,060.91",source_numeric,1
+2019,2018,comparative,BS,total_liabilities,负债合计,17443639060.91,CNY,consolidated,20200421.pdf,99,"负债合计 27,603,639,445.69 17,443,639,060.91",source_numeric,2
+2019,2019,current,BS,parent_equity,归属于母公司所有者权益,6720578615.80,CNY,consolidated,20200421.pdf,99,"归属于母公司所有者权益 6,720,578,615.80 4,451,934,248.75",source_numeric,1
+2019,2018,comparative,BS,parent_equity,归属于母公司所有者权益,4451934248.75,CNY,consolidated,20200421.pdf,99,"归属于母公司所有者权益 6,720,578,615.80 4,451,934,248.75",source_numeric,2
+2019,2019,current,BS,minority_equity,少数股东权益,371392975.52,CNY,consolidated,20200421.pdf,99,"少数股东权益 371,392,975.52 436,261,789.67",source_numeric,1
+2019,2018,comparative,BS,minority_equity,少数股东权益,436261789.67,CNY,consolidated,20200421.pdf,99,"少数股东权益 371,392,975.52 436,261,789.67",source_numeric,2
+2019,2019,current,BS,total_equity,所有者权益（或股东权益）合计,7091971591.32,CNY,consolidated,20200421.pdf,100,"所有者权益（或股东权 7,091,971,591.32 4,888,196,038.42",source_numeric,1
+2019,2018,comparative,BS,total_equity,所有者权益（或股东权益）合计,4888196038.42,CNY,consolidated,20200421.pdf,100,"所有者权益（或股东权 7,091,971,591.32 4,888,196,038.42",source_numeric,2
+2019,2019,current,IS,revenue,其中：营业收入,10493157033.56,CNY,consolidated,20200421.pdf,102,"其中：营业收入 七、61 10,493,157,033.56 6,902,147,193.31",source_numeric,1
+2019,2018,comparative,IS,revenue,其中：营业收入,6902147193.31,CNY,consolidated,20200421.pdf,102,"其中：营业收入 七、61 10,493,157,033.56 6,902,147,193.31",source_numeric,2
+2019,2019,current,IS,cost,其中：营业成本,8115571674.75,CNY,consolidated,20200421.pdf,102,"其中：营业成本 七、61 8,115,571,674.75 5,170,935,227.32",source_numeric,1
+2019,2018,comparative,IS,cost,其中：营业成本,5170935227.32,CNY,consolidated,20200421.pdf,102,"其中：营业成本 七、61 8,115,571,674.75 5,170,935,227.32",source_numeric,2
+2019,2019,current,IS,operating_profit,营业利润（,738823540.00,CNY,consolidated,20200421.pdf,103,"三、营业利润（亏损以“－”号填列） 738,823,540.00 380,418,196.15",source_numeric,1
+2019,2018,comparative,IS,operating_profit,营业利润（,380418196.15,CNY,consolidated,20200421.pdf,103,"三、营业利润（亏损以“－”号填列） 738,823,540.00 380,418,196.15",source_numeric,2
+2019,2019,current,IS,profit_before_tax,利润总额（,747510373.57,CNY,consolidated,20200421.pdf,103,"四、利润总额（亏损总额以“－”号 747,510,373.57 386,538,458.93",source_numeric,1
+2019,2018,comparative,IS,profit_before_tax,利润总额（,386538458.93,CNY,consolidated,20200421.pdf,103,"四、利润总额（亏损总额以“－”号 747,510,373.57 386,538,458.93",source_numeric,2
+2019,2019,current,IS,net_profit,净利润（,661334195.69,CNY,consolidated,20200421.pdf,103,"五、净利润（净亏损以“－”号填列） 661,334,195.69 422,750,261.42",source_numeric,1
+2019,2018,comparative,IS,net_profit,净利润（,422750261.42,CNY,consolidated,20200421.pdf,103,"五、净利润（净亏损以“－”号填列） 661,334,195.69 422,750,261.42",source_numeric,2
+2019,2019,current,IS,parent_profit,归属于母公司股东的净利润,712563192.87,CNY,consolidated,20200421.pdf,103,"1.归属于母公司股东的净利润 712,563,192.87 425,966,515.12",source_numeric,1
+2019,2018,comparative,IS,parent_profit,归属于母公司股东的净利润,425966515.12,CNY,consolidated,20200421.pdf,103,"1.归属于母公司股东的净利润 712,563,192.87 425,966,515.12",source_numeric,2
+2019,2019,current,IS,research_expense,研发费用,298007036.25,CNY,consolidated,20200421.pdf,102,"研发费用 七、65 298,007,036.25 196,557,095.31",source_numeric,1
+2019,2018,comparative,IS,research_expense,研发费用,196557095.31,CNY,consolidated,20200421.pdf,102,"研发费用 七、65 298,007,036.25 196,557,095.31",source_numeric,2
+2019,2019,current,IS,finance_expense,财务费用,266797192.93,CNY,consolidated,20200421.pdf,102,"财务费用 七、66 266,797,192.93 257,476,903.13",source_numeric,1
+2019,2018,comparative,IS,finance_expense,财务费用,257476903.13,CNY,consolidated,20200421.pdf,102,"财务费用 七、66 266,797,192.93 257,476,903.13",source_numeric,2
+2019,2019,current,IS,interest_expense,其中：利息费用,270644041.99,CNY,consolidated,20200421.pdf,102,"其中：利息费用 270,644,041.99 260,844,024.34",source_numeric,1
+2019,2018,comparative,IS,interest_expense,其中：利息费用,260844024.34,CNY,consolidated,20200421.pdf,102,"其中：利息费用 270,644,041.99 260,844,024.34",source_numeric,2
+2019,2019,current,IS,impairment,资产减值损失,-76615685.32,CNY,consolidated,20200421.pdf,103,"资产减值损失（损失以“-” 七、72 -76,615,685.32 80,173,755.16",source_numeric,1
+2019,2018,comparative,IS,impairment,资产减值损失,80173755.16,CNY,consolidated,20200421.pdf,103,"资产减值损失（损失以“-” 七、72 -76,615,685.32 80,173,755.16",source_numeric,2
+2019,2019,current,IS,credit_impairment,信用减值损失,-2207441.22,CNY,consolidated,20200421.pdf,103,"信用减值损失（损失以“-” 七、71 -2,207,441.22",source_numeric,1
+2019,2018,comparative,IS,credit_impairment,信用减值损失,,CNY,consolidated,20200421.pdf,103,"信用减值损失（损失以“-” 七、71 -2,207,441.22",source_blank_not_zero,2
+2019,2019,current,CF,sales_cash,销售商品、提供劳务收到的现,16259006401.42,CNY,consolidated,20200421.pdf,106,"销售商品、提供劳务收到的现 16,259,006,401.42 7,140,961,025.35",source_numeric,1
+2019,2018,comparative,CF,sales_cash,销售商品、提供劳务收到的现,7140961025.35,CNY,consolidated,20200421.pdf,106,"销售商品、提供劳务收到的现 16,259,006,401.42 7,140,961,025.35",source_numeric,2
+2019,2019,current,CF,tax_refunds,收到的税费返还,57707810.89,CNY,consolidated,20200421.pdf,106,"收到的税费返还 57,707,810.89 46,944,662.74",source_numeric,1
+2019,2018,comparative,CF,tax_refunds,收到的税费返还,46944662.74,CNY,consolidated,20200421.pdf,106,"收到的税费返还 57,707,810.89 46,944,662.74",source_numeric,2
+2019,2019,current,CF,operating_in,经营活动现金流入小计,16636398165.44,CNY,consolidated,20200421.pdf,106,"经营活动现金流入小计 16,636,398,165.44 7,553,666,048.47",source_numeric,1
+2019,2018,comparative,CF,operating_in,经营活动现金流入小计,7553666048.47,CNY,consolidated,20200421.pdf,106,"经营活动现金流入小计 16,636,398,165.44 7,553,666,048.47",source_numeric,2
+2019,2019,current,CF,purchase_cash,购买商品、接受劳务支付的现,8339979845.45,CNY,consolidated,20200421.pdf,106,"购买商品、接受劳务支付的现 8,339,979,845.45 5,264,660,213.86",source_numeric,1
+2019,2018,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,5264660213.86,CNY,consolidated,20200421.pdf,106,"购买商品、接受劳务支付的现 8,339,979,845.45 5,264,660,213.86",source_numeric,2
+2019,2019,current,CF,employee_cash,支付给职工,821091652.41,CNY,consolidated,20200421.pdf,106,"支付给职工及为职工支付的 821,091,652.41 715,971,858.64",source_numeric,1
+2019,2018,comparative,CF,employee_cash,支付给职工,715971858.64,CNY,consolidated,20200421.pdf,106,"支付给职工及为职工支付的 821,091,652.41 715,971,858.64",source_numeric,2
+2019,2019,current,CF,tax_paid,支付的各项税费,398548020.79,CNY,consolidated,20200421.pdf,106,"支付的各项税费 398,548,020.79 383,731,488.35",source_numeric,1
+2019,2018,comparative,CF,tax_paid,支付的各项税费,383731488.35,CNY,consolidated,20200421.pdf,106,"支付的各项税费 398,548,020.79 383,731,488.35",source_numeric,2
+2019,2019,current,CF,operating_out,经营活动现金流出小计,10881133965.42,CNY,consolidated,20200421.pdf,106,"经营活动现金流出小计 10,881,133,965.42 7,277,342,648.42",source_numeric,1
+2019,2018,comparative,CF,operating_out,经营活动现金流出小计,7277342648.42,CNY,consolidated,20200421.pdf,106,"经营活动现金流出小计 10,881,133,965.42 7,277,342,648.42",source_numeric,2
+2019,2019,current,CF,cfo,经营活动产生的现金流量净额,5755264200.02,CNY,consolidated,20200421.pdf,106,"经营活动产生的现金流 5,755,264,200.02 276,323,400.05",source_numeric,1
+2019,2018,comparative,CF,cfo,经营活动产生的现金流量净额,276323400.05,CNY,consolidated,20200421.pdf,106,"经营活动产生的现金流 5,755,264,200.02 276,323,400.05",source_numeric,2
+2019,2019,current,CF,capex,购建固定资产、无形资产和其他长期资,2340212758.15,CNY,consolidated,20200421.pdf,107,"购建固定资产、无形资产和其 2,340,212,758.15 1,725,838,629.27",source_numeric,1
+2019,2018,comparative,CF,capex,购建固定资产、无形资产和其他长期资,1725838629.27,CNY,consolidated,20200421.pdf,107,"购建固定资产、无形资产和其 2,340,212,758.15 1,725,838,629.27",source_numeric,2
+2019,2019,current,CF,cfi,投资活动产生的现金流量净额,-2142709034.50,CNY,consolidated,20200421.pdf,107,"投资活动产生的现金流 -2,142,709,034.50 -1,172,074,181.70",source_numeric,1
+2019,2018,comparative,CF,cfi,投资活动产生的现金流量净额,-1172074181.70,CNY,consolidated,20200421.pdf,107,"投资活动产生的现金流 -2,142,709,034.50 -1,172,074,181.70",source_numeric,2
+2019,2019,current,CF,cff,筹资活动产生的现金流量净额,3932756956.95,CNY,consolidated,20200421.pdf,107,"筹资活动产生的现金流 3,932,756,956.95 1,074,650,168.58",source_numeric,1
+2019,2018,comparative,CF,cff,筹资活动产生的现金流量净额,1074650168.58,CNY,consolidated,20200421.pdf,107,"筹资活动产生的现金流 3,932,756,956.95 1,074,650,168.58",source_numeric,2
+2019,2019,current,CF,cash_begin,加：期初现金及现金等价物余额,2708270648.49,CNY,consolidated,20200421.pdf,107,"加：期初现金及现金等价物余 2,708,270,648.49 2,519,571,488.62",source_numeric,1
+2019,2018,comparative,CF,cash_begin,加：期初现金及现金等价物余额,2519571488.62,CNY,consolidated,20200421.pdf,107,"加：期初现金及现金等价物余 2,708,270,648.49 2,519,571,488.62",source_numeric,2
+2019,2019,current,CF,cash_end,期末现金及现金等价物余额,10255861089.76,CNY,consolidated,20200421.pdf,107,"六、期末现金及现金等价物余额 10,255,861,089.76 2,708,270,648.49",source_numeric,1
+2019,2018,comparative,CF,cash_end,期末现金及现金等价物余额,2708270648.49,CNY,consolidated,20200421.pdf,107,"六、期末现金及现金等价物余额 10,255,861,089.76 2,708,270,648.49",source_numeric,2
+2020,2020,current,BS,cash,货币资金,16332873967.87,CNY,consolidated,20210416.pdf,110,"货币资金 七、1 16,332,873,967.87 10,773,039,557.63",source_numeric,1
+2020,2019,comparative,BS,cash,货币资金,10773039557.63,CNY,consolidated,20210416.pdf,110,"货币资金 七、1 16,332,873,967.87 10,773,039,557.63",source_numeric,2
+2020,2020,current,BS,bills_receivable,应收票据,,CNY,consolidated,20210416.pdf,110,"应收票据 七、4 2,925,000.00",source_blank_not_zero,1
+2020,2019,comparative,BS,bills_receivable,应收票据,2925000.00,CNY,consolidated,20210416.pdf,110,"应收票据 七、4 2,925,000.00",source_numeric,2
+2020,2020,current,BS,receivables,应收账款,3714395386.12,CNY,consolidated,20210416.pdf,110,"应收账款 七、5 3,714,395,386.12 4,751,530,667.67",source_numeric,1
+2020,2019,comparative,BS,receivables,应收账款,4751530667.67,CNY,consolidated,20210416.pdf,110,"应收账款 七、5 3,714,395,386.12 4,751,530,667.67",source_numeric,2
+2020,2020,current,BS,receivables_financing,应收款项融资,885896730.91,CNY,consolidated,20210416.pdf,110,"应收款项融资 七、6 885,896,730.91 826,531,754.39",source_numeric,1
+2020,2019,comparative,BS,receivables_financing,应收款项融资,826531754.39,CNY,consolidated,20210416.pdf,110,"应收款项融资 七、6 885,896,730.91 826,531,754.39",source_numeric,2
+2020,2020,current,BS,prepayments,预付款项,861818096.28,CNY,consolidated,20210416.pdf,110,"预付款项 七、7 861,818,096.28 1,178,728,133.16",source_numeric,1
+2020,2019,comparative,BS,prepayments,预付款项,1178728133.16,CNY,consolidated,20210416.pdf,110,"预付款项 七、7 861,818,096.28 1,178,728,133.16",source_numeric,2
+2020,2020,current,BS,inventory,存货,8472133832.71,CNY,consolidated,20210416.pdf,110,"存货 七、9 8,472,133,832.71 2,811,417,105.44",source_numeric,1
+2020,2019,comparative,BS,inventory,存货,2811417105.44,CNY,consolidated,20210416.pdf,110,"存货 七、9 8,472,133,832.71 2,811,417,105.44",source_numeric,2
+2020,2020,current,BS,contract_assets,合同资产,542966499.65,CNY,consolidated,20210416.pdf,110,"合同资产 七、10 542,966,499.65",source_numeric,1
+2020,2019,comparative,BS,contract_assets,合同资产,,CNY,consolidated,20210416.pdf,110,"合同资产 七、10 542,966,499.65",source_blank_not_zero,2
+2020,2020,current,BS,current_assets,流动资产合计,33125238574.78,CNY,consolidated,20210416.pdf,110,"流动资产合计 33,125,238,574.78 22,579,527,773.84",source_numeric,1
+2020,2019,comparative,BS,current_assets,流动资产合计,22579527773.84,CNY,consolidated,20210416.pdf,110,"流动资产合计 33,125,238,574.78 22,579,527,773.84",source_numeric,2
+2020,2020,current,BS,fixed_assets,固定资产,6961507930.32,CNY,consolidated,20210416.pdf,111,"固定资产 七、21 6,961,507,930.32 4,655,768,738.20",source_numeric,1
+2020,2019,comparative,BS,fixed_assets,固定资产,4655768738.20,CNY,consolidated,20210416.pdf,111,"固定资产 七、21 6,961,507,930.32 4,655,768,738.20",source_numeric,2
+2020,2020,current,BS,construction,在建工程,3809145407.00,CNY,consolidated,20210416.pdf,111,"在建工程 七、22 3,809,145,407.00 2,419,880,138.30",source_numeric,1
+2020,2019,comparative,BS,construction,在建工程,2419880138.30,CNY,consolidated,20210416.pdf,111,"在建工程 七、22 3,809,145,407.00 2,419,880,138.30",source_numeric,2
+2020,2020,current,BS,intangibles,无形资产,1080975666.72,CNY,consolidated,20210416.pdf,111,"无形资产 七、26 1,080,975,666.72 1,028,401,882.35",source_numeric,1
+2020,2019,comparative,BS,intangibles,无形资产,1028401882.35,CNY,consolidated,20210416.pdf,111,"无形资产 七、26 1,080,975,666.72 1,028,401,882.35",source_numeric,2
+2020,2020,current,BS,development_costs,开发支出,205823847.72,CNY,consolidated,20210416.pdf,111,"开发支出 七、27 205,823,847.72 68,243,753.93",source_numeric,1
+2020,2019,comparative,BS,development_costs,开发支出,68243753.93,CNY,consolidated,20210416.pdf,111,"开发支出 七、27 205,823,847.72 68,243,753.93",source_numeric,2
+2020,2020,current,BS,total_assets,资产总计,51627844863.52,CNY,consolidated,20210416.pdf,111,"资产总计 51,627,844,863.52 34,695,611,037.01",source_numeric,1
+2020,2019,comparative,BS,total_assets,资产总计,34695611037.01,CNY,consolidated,20210416.pdf,111,"资产总计 51,627,844,863.52 34,695,611,037.01",source_numeric,2
+2020,2020,current,BS,short_loans,短期借款,149000000.00,CNY,consolidated,20210416.pdf,111,"短期借款 七、32 149,000,000.00 1,374,635,099.07",source_numeric,1
+2020,2019,comparative,BS,short_loans,短期借款,1374635099.07,CNY,consolidated,20210416.pdf,111,"短期借款 七、32 149,000,000.00 1,374,635,099.07",source_numeric,2
+2020,2020,current,BS,bills_payable,应付票据,5197294612.71,CNY,consolidated,20210416.pdf,111,"应付票据 七、35 5,197,294,612.71 2,728,682,840.82",source_numeric,1
+2020,2019,comparative,BS,bills_payable,应付票据,2728682840.82,CNY,consolidated,20210416.pdf,111,"应付票据 七、35 5,197,294,612.71 2,728,682,840.82",source_numeric,2
+2020,2020,current,BS,payables,应付账款,7855326473.19,CNY,consolidated,20210416.pdf,111,"应付账款 七、36 7,855,326,473.19 4,804,911,016.69",source_numeric,1
+2020,2019,comparative,BS,payables,应付账款,4804911016.69,CNY,consolidated,20210416.pdf,111,"应付账款 七、36 7,855,326,473.19 4,804,911,016.69",source_numeric,2
+2020,2020,current,BS,advance_receipts,预收款项,,CNY,consolidated,20210416.pdf,111,"预收款项 七、37 6,858,917,435.34",source_blank_not_zero,1
+2020,2019,comparative,BS,advance_receipts,预收款项,6858917435.34,CNY,consolidated,20210416.pdf,111,"预收款项 七、37 6,858,917,435.34",source_numeric,2
+2020,2020,current,BS,contract_liabilities,合同负债,8559944751.63,CNY,consolidated,20210416.pdf,111,"合同负债 七、38 8,559,944,751.63",source_numeric,1
+2020,2019,comparative,BS,contract_liabilities,合同负债,,CNY,consolidated,20210416.pdf,111,"合同负债 七、38 8,559,944,751.63",source_blank_not_zero,2
+2020,2020,current,BS,current_debt_maturities,一年内到期的非流动负债,1497350217.14,CNY,consolidated,20210416.pdf,111,"一年内到期的非流动负债 七、43 1,497,350,217.14 608,805,396.01",source_numeric,1
+2020,2019,comparative,BS,current_debt_maturities,一年内到期的非流动负债,608805396.01,CNY,consolidated,20210416.pdf,111,"一年内到期的非流动负债 七、43 1,497,350,217.14 608,805,396.01",source_numeric,2
+2020,2020,current,BS,current_liabilities,流动负债合计,27044910022.37,CNY,consolidated,20210416.pdf,111,"流动负债合计 27,044,910,022.37 18,162,472,275.19",source_numeric,1
+2020,2019,comparative,BS,current_liabilities,流动负债合计,18162472275.19,CNY,consolidated,20210416.pdf,111,"流动负债合计 27,044,910,022.37 18,162,472,275.19",source_numeric,2
+2020,2020,current,BS,long_loans,长期借款,3598420526.00,CNY,consolidated,20210416.pdf,111,"长期借款 七、45 3,598,420,526.00 2,848,502,023.20",source_numeric,1
+2020,2019,comparative,BS,long_loans,长期借款,2848502023.20,CNY,consolidated,20210416.pdf,111,"长期借款 七、45 3,598,420,526.00 2,848,502,023.20",source_numeric,2
+2020,2020,current,BS,bonds,应付债券,781207869.86,CNY,consolidated,20210416.pdf,111,"应付债券 七、46 781,207,869.86 1,805,426,328.96",source_numeric,1
+2020,2019,comparative,BS,bonds,应付债券,1805426328.96,CNY,consolidated,20210416.pdf,111,"应付债券 七、46 781,207,869.86 1,805,426,328.96",source_numeric,2
+2020,2020,current,BS,lease_liabilities,租赁负债,,CNY,consolidated,20210416.pdf,112,租赁负债,source_blank_not_zero,1
+2020,2019,comparative,BS,lease_liabilities,租赁负债,,CNY,consolidated,20210416.pdf,112,租赁负债,source_blank_not_zero,2
+2020,2020,current,BS,total_liabilities,负债合计,36543347929.50,CNY,consolidated,20210416.pdf,112,"负债合计 36,543,347,929.50 27,603,639,445.69",source_numeric,1
+2020,2019,comparative,BS,total_liabilities,负债合计,27603639445.69,CNY,consolidated,20210416.pdf,112,"负债合计 36,543,347,929.50 27,603,639,445.69",source_numeric,2
+2020,2020,current,BS,parent_equity,归属于母公司所有者权益,14762198540.30,CNY,consolidated,20210416.pdf,112,"归属于母公司所有者权益 14,762,198,540.30 6,720,578,615.80",source_numeric,1
+2020,2019,comparative,BS,parent_equity,归属于母公司所有者权益,6720578615.80,CNY,consolidated,20210416.pdf,112,"归属于母公司所有者权益 14,762,198,540.30 6,720,578,615.80",source_numeric,2
+2020,2020,current,BS,minority_equity,少数股东权益,322298393.72,CNY,consolidated,20210416.pdf,112,"少数股东权益 322,298,393.72 371,392,975.52",source_numeric,1
+2020,2019,comparative,BS,minority_equity,少数股东权益,371392975.52,CNY,consolidated,20210416.pdf,112,"少数股东权益 322,298,393.72 371,392,975.52",source_numeric,2
+2020,2020,current,BS,total_equity,所有者权益（或股东权益）合计,15084496934.02,CNY,consolidated,20210416.pdf,112,"所有者权益（或股东权 15,084,496,934.02 7,091,971,591.32",source_numeric,1
+2020,2019,comparative,BS,total_equity,所有者权益（或股东权益）合计,7091971591.32,CNY,consolidated,20210416.pdf,112,"所有者权益（或股东权 15,084,496,934.02 7,091,971,591.32",source_numeric,2
+2020,2020,current,IS,revenue,其中：营业收入,22456987361.30,CNY,consolidated,20210416.pdf,114,"其中：营业收入 七、61 22,456,987,361.30 10,493,157,033.56",source_numeric,1
+2020,2019,comparative,IS,revenue,其中：营业收入,10493157033.56,CNY,consolidated,20210416.pdf,114,"其中：营业收入 七、61 22,456,987,361.30 10,493,157,033.56",source_numeric,2
+2020,2020,current,IS,cost,其中：营业成本,18287125421.79,CNY,consolidated,20210416.pdf,114,"其中：营业成本 七、61 18,287,125,421.79 8,115,571,674.75",source_numeric,1
+2020,2019,comparative,IS,cost,其中：营业成本,8115571674.75,CNY,consolidated,20210416.pdf,114,"其中：营业成本 七、61 18,287,125,421.79 8,115,571,674.75",source_numeric,2
+2020,2020,current,IS,operating_profit,营业利润（,1578978509.33,CNY,consolidated,20210416.pdf,115,"三、营业利润（亏损以“－”号填列） 1,578,978,509.33 738,823,540.00",source_numeric,1
+2020,2019,comparative,IS,operating_profit,营业利润（,738823540.00,CNY,consolidated,20210416.pdf,115,"三、营业利润（亏损以“－”号填列） 1,578,978,509.33 738,823,540.00",source_numeric,2
+2020,2020,current,IS,profit_before_tax,利润总额（,1477099558.59,CNY,consolidated,20210416.pdf,115,"四、利润总额（亏损总额以“－”号 1,477,099,558.59 747,510,373.57",source_numeric,1
+2020,2019,comparative,IS,profit_before_tax,利润总额（,747510373.57,CNY,consolidated,20210416.pdf,115,"四、利润总额（亏损总额以“－”号 1,477,099,558.59 747,510,373.57",source_numeric,2
+2020,2020,current,IS,net_profit,净利润（,1304315536.93,CNY,consolidated,20210416.pdf,115,"五、净利润（净亏损以“－”号填列） 1,304,315,536.93 661,334,195.69",source_numeric,1
+2020,2019,comparative,IS,net_profit,净利润（,661334195.69,CNY,consolidated,20210416.pdf,115,"五、净利润（净亏损以“－”号填列） 1,304,315,536.93 661,334,195.69",source_numeric,2
+2020,2020,current,IS,parent_profit,归属于母公司股东的净利润,1374071306.07,CNY,consolidated,20210416.pdf,115,"1.归属于母公司股东的净利润 1,374,071,306.07 712,563,192.87",source_numeric,1
+2020,2019,comparative,IS,parent_profit,归属于母公司股东的净利润,712563192.87,CNY,consolidated,20210416.pdf,115,"1.归属于母公司股东的净利润 1,374,071,306.07 712,563,192.87",source_numeric,2
+2020,2020,current,IS,research_expense,研发费用,600707282.41,CNY,consolidated,20210416.pdf,115,"研发费用 七、65 600,707,282.41 298,007,036.25",source_numeric,1
+2020,2019,comparative,IS,research_expense,研发费用,298007036.25,CNY,consolidated,20210416.pdf,115,"研发费用 七、65 600,707,282.41 298,007,036.25",source_numeric,2
+2020,2020,current,IS,finance_expense,财务费用,385575479.82,CNY,consolidated,20210416.pdf,115,"财务费用 七、66 385,575,479.82 266,797,192.93",source_numeric,1
+2020,2019,comparative,IS,finance_expense,财务费用,266797192.93,CNY,consolidated,20210416.pdf,115,"财务费用 七、66 385,575,479.82 266,797,192.93",source_numeric,2
+2020,2020,current,IS,interest_expense,其中：利息费用,591816940.37,CNY,consolidated,20210416.pdf,115,"其中：利息费用 591,816,940.37 270,644,041.99",source_numeric,1
+2020,2019,comparative,IS,interest_expense,其中：利息费用,270644041.99,CNY,consolidated,20210416.pdf,115,"其中：利息费用 591,816,940.37 270,644,041.99",source_numeric,2
+2020,2020,current,IS,impairment,资产减值损失,-66220781.25,CNY,consolidated,20210416.pdf,115,"资产减值损失（损失以“-” 七、72 -66,220,781.25 -76,615,685.32",source_numeric,1
+2020,2019,comparative,IS,impairment,资产减值损失,-76615685.32,CNY,consolidated,20210416.pdf,115,"资产减值损失（损失以“-” 七、72 -66,220,781.25 -76,615,685.32",source_numeric,2
+2020,2020,current,IS,credit_impairment,信用减值损失,-71405253.07,CNY,consolidated,20210416.pdf,115,"信用减值损失（损失以“-” 七、71 -71,405,253.07 -2,207,441.22",source_numeric,1
+2020,2019,comparative,IS,credit_impairment,信用减值损失,-2207441.22,CNY,consolidated,20210416.pdf,115,"信用减值损失（损失以“-” 七、71 -71,405,253.07 -2,207,441.22",source_numeric,2
+2020,2020,current,CF,sales_cash,销售商品、提供劳务收到的现,36872005875.63,CNY,consolidated,20210416.pdf,118,"销售商品、提供劳务收到的现 36,872,005,875.63 16,259,006,401.42",source_numeric,1
+2020,2019,comparative,CF,sales_cash,销售商品、提供劳务收到的现,16259006401.42,CNY,consolidated,20210416.pdf,118,"销售商品、提供劳务收到的现 36,872,005,875.63 16,259,006,401.42",source_numeric,2
+2020,2020,current,CF,tax_refunds,收到的税费返还,43569922.89,CNY,consolidated,20210416.pdf,118,"收到的税费返还 43,569,922.89 57,707,810.89",source_numeric,1
+2020,2019,comparative,CF,tax_refunds,收到的税费返还,57707810.89,CNY,consolidated,20210416.pdf,118,"收到的税费返还 43,569,922.89 57,707,810.89",source_numeric,2
+2020,2020,current,CF,operating_in,经营活动现金流入小计,37616028701.73,CNY,consolidated,20210416.pdf,118,"经营活动现金流入小计 七、78（1） 37,616,028,701.73 16,636,398,165.44",source_numeric,1
+2020,2019,comparative,CF,operating_in,经营活动现金流入小计,16636398165.44,CNY,consolidated,20210416.pdf,118,"经营活动现金流入小计 七、78（1） 37,616,028,701.73 16,636,398,165.44",source_numeric,2
+2020,2020,current,CF,purchase_cash,购买商品、接受劳务支付的现,30732453551.48,CNY,consolidated,20210416.pdf,118,"购买商品、接受劳务支付的现 30,732,453,551.48 8,339,979,845.45",source_numeric,1
+2020,2019,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,8339979845.45,CNY,consolidated,20210416.pdf,118,"购买商品、接受劳务支付的现 30,732,453,551.48 8,339,979,845.45",source_numeric,2
+2020,2020,current,CF,employee_cash,支付给职工,1230844976.60,CNY,consolidated,20210416.pdf,118,"支付给职工及为职工支付的 1,230,844,976.60 821,091,652.41",source_numeric,1
+2020,2019,comparative,CF,employee_cash,支付给职工,821091652.41,CNY,consolidated,20210416.pdf,118,"支付给职工及为职工支付的 1,230,844,976.60 821,091,652.41",source_numeric,2
+2020,2020,current,CF,tax_paid,支付的各项税费,704441928.53,CNY,consolidated,20210416.pdf,118,"支付的各项税费 704,441,928.53 398,548,020.79",source_numeric,1
+2020,2019,comparative,CF,tax_paid,支付的各项税费,398548020.79,CNY,consolidated,20210416.pdf,118,"支付的各项税费 704,441,928.53 398,548,020.79",source_numeric,2
+2020,2020,current,CF,operating_out,经营活动现金流出小计,33985274633.98,CNY,consolidated,20210416.pdf,118,"经营活动现金流出小计 七、78（2） 33,985,274,633.98 10,881,133,965.42",source_numeric,1
+2020,2019,comparative,CF,operating_out,经营活动现金流出小计,10881133965.42,CNY,consolidated,20210416.pdf,118,"经营活动现金流出小计 七、78（2） 33,985,274,633.98 10,881,133,965.42",source_numeric,2
+2020,2020,current,CF,cfo,经营活动产生的现金流量净额,3630754067.75,CNY,consolidated,20210416.pdf,119,"经营活动产生的现金流 3,630,754,067.75 5,755,264,200.02",source_numeric,1
+2020,2019,comparative,CF,cfo,经营活动产生的现金流量净额,5755264200.02,CNY,consolidated,20210416.pdf,119,"经营活动产生的现金流 3,630,754,067.75 5,755,264,200.02",source_numeric,2
+2020,2020,current,CF,capex,购建固定资产、无形资产和其他长期资,3306031229.98,CNY,consolidated,20210416.pdf,119,"购建固定资产、无形资产和其 3,306,031,229.98 2,340,212,758.15",source_numeric,1
+2020,2019,comparative,CF,capex,购建固定资产、无形资产和其他长期资,2340212758.15,CNY,consolidated,20210416.pdf,119,"购建固定资产、无形资产和其 3,306,031,229.98 2,340,212,758.15",source_numeric,2
+2020,2020,current,CF,cfi,投资活动产生的现金流量净额,-3763221942.99,CNY,consolidated,20210416.pdf,119,"投资活动产生的现金流 -3,763,221,942.99 -2,142,709,034.50",source_numeric,1
+2020,2019,comparative,CF,cfi,投资活动产生的现金流量净额,-2142709034.50,CNY,consolidated,20210416.pdf,119,"投资活动产生的现金流 -3,763,221,942.99 -2,142,709,034.50",source_numeric,2
+2020,2020,current,CF,cff,筹资活动产生的现金流量净额,5169362889.51,CNY,consolidated,20210416.pdf,119,"筹资活动产生的现金流 5,169,362,889.51 3,932,756,956.95",source_numeric,1
+2020,2019,comparative,CF,cff,筹资活动产生的现金流量净额,3932756956.95,CNY,consolidated,20210416.pdf,119,"筹资活动产生的现金流 5,169,362,889.51 3,932,756,956.95",source_numeric,2
+2020,2020,current,CF,cash_begin,加：期初现金及现金等价物余额,10255861089.76,CNY,consolidated,20210416.pdf,119,"加：期初现金及现金等价物余 10,255,861,089.76 2,708,270,648.49",source_numeric,1
+2020,2019,comparative,CF,cash_begin,加：期初现金及现金等价物余额,2708270648.49,CNY,consolidated,20210416.pdf,119,"加：期初现金及现金等价物余 10,255,861,089.76 2,708,270,648.49",source_numeric,2
+2020,2020,current,CF,cash_end,期末现金及现金等价物余额,15292439894.15,CNY,consolidated,20210416.pdf,119,"六、期末现金及现金等价物余额 15,292,439,894.15 10,255,861,089.76",source_numeric,1
+2020,2019,comparative,CF,cash_end,期末现金及现金等价物余额,10255861089.76,CNY,consolidated,20210416.pdf,119,"六、期末现金及现金等价物余额 15,292,439,894.15 10,255,861,089.76",source_numeric,2
+2021,2021,current,BS,cash,货币资金,14070916969.33,CNY,consolidated,20220414.pdf,105,"货币资金 七、1 14,070,916,969.33 16,332,873,967.87",source_numeric,1
+2021,2020,comparative,BS,cash,货币资金,16332873967.87,CNY,consolidated,20220414.pdf,105,"货币资金 七、1 14,070,916,969.33 16,332,873,967.87",source_numeric,2
+2021,2021,current,BS,bills_receivable,应收票据,16255258.49,CNY,consolidated,20220414.pdf,105,"应收票据 七、4 16,255,258.49",source_numeric,1
+2021,2020,comparative,BS,bills_receivable,应收票据,,CNY,consolidated,20220414.pdf,105,"应收票据 七、4 16,255,258.49",source_blank_not_zero,2
+2021,2021,current,BS,receivables,应收账款,5855787488.09,CNY,consolidated,20220414.pdf,105,"应收账款 七、5 5,855,787,488.09 3,714,395,386.12",source_numeric,1
+2021,2020,comparative,BS,receivables,应收账款,3714395386.12,CNY,consolidated,20220414.pdf,105,"应收账款 七、5 5,855,787,488.09 3,714,395,386.12",source_numeric,2
+2021,2021,current,BS,receivables_financing,应收款项融资,1520524151.53,CNY,consolidated,20220414.pdf,105,"应收款项融资 七、6 1,520,524,151.53 885,896,730.91",source_numeric,1
+2021,2020,comparative,BS,receivables_financing,应收款项融资,885896730.91,CNY,consolidated,20220414.pdf,105,"应收款项融资 七、6 1,520,524,151.53 885,896,730.91",source_numeric,2
+2021,2021,current,BS,prepayments,预付款项,500277416.87,CNY,consolidated,20220414.pdf,105,"预付款项 七、7 500,277,416.87 861,818,096.28",source_numeric,1
+2021,2020,comparative,BS,prepayments,预付款项,861818096.28,CNY,consolidated,20220414.pdf,105,"预付款项 七、7 500,277,416.87 861,818,096.28",source_numeric,2
+2021,2021,current,BS,inventory,存货,9604001791.96,CNY,consolidated,20220414.pdf,105,"存货 七、9 9,604,001,791.96 8,472,133,832.71",source_numeric,1
+2021,2020,comparative,BS,inventory,存货,8472133832.71,CNY,consolidated,20220414.pdf,105,"存货 七、9 9,604,001,791.96 8,472,133,832.71",source_numeric,2
+2021,2021,current,BS,contract_assets,合同资产,530586825.37,CNY,consolidated,20220414.pdf,105,"合同资产 七、10 530,586,825.37 542,966,499.65",source_numeric,1
+2021,2020,comparative,BS,contract_assets,合同资产,542966499.65,CNY,consolidated,20220414.pdf,105,"合同资产 七、10 530,586,825.37 542,966,499.65",source_numeric,2
+2021,2021,current,BS,current_assets,流动资产合计,37625904273.50,CNY,consolidated,20220414.pdf,105,"流动资产合计 37,625,904,273.50 33,125,238,574.78",source_numeric,1
+2021,2020,comparative,BS,current_assets,流动资产合计,33125238574.78,CNY,consolidated,20220414.pdf,105,"流动资产合计 37,625,904,273.50 33,125,238,574.78",source_numeric,2
+2021,2021,current,BS,fixed_assets,固定资产,9548886290.14,CNY,consolidated,20220414.pdf,106,"固定资产 七、21 9,548,886,290.14 6,961,507,930.32",source_numeric,1
+2021,2020,comparative,BS,fixed_assets,固定资产,6961507930.32,CNY,consolidated,20220414.pdf,106,"固定资产 七、21 9,548,886,290.14 6,961,507,930.32",source_numeric,2
+2021,2021,current,BS,construction,在建工程,1388631313.97,CNY,consolidated,20220414.pdf,106,"在建工程 七、22 1,388,631,313.97 3,809,145,407.00",source_numeric,1
+2021,2020,comparative,BS,construction,在建工程,3809145407.00,CNY,consolidated,20220414.pdf,106,"在建工程 七、22 1,388,631,313.97 3,809,145,407.00",source_numeric,2
+2021,2021,current,BS,intangibles,无形资产,894447421.54,CNY,consolidated,20220414.pdf,106,"无形资产 七、26 894,447,421.54 1,080,975,666.72",source_numeric,1
+2021,2020,comparative,BS,intangibles,无形资产,1080975666.72,CNY,consolidated,20220414.pdf,106,"无形资产 七、26 894,447,421.54 1,080,975,666.72",source_numeric,2
+2021,2021,current,BS,development_costs,开发支出,314690450.32,CNY,consolidated,20220414.pdf,106,"开发支出 七、27 314,690,450.32 205,823,847.72",source_numeric,1
+2021,2020,comparative,BS,development_costs,开发支出,205823847.72,CNY,consolidated,20220414.pdf,106,"开发支出 七、27 314,690,450.32 205,823,847.72",source_numeric,2
+2021,2021,current,BS,total_assets,资产总计,61492929383.64,CNY,consolidated,20220414.pdf,106,"资产总计 61,492,929,383.64 51,627,844,863.52",source_numeric,1
+2021,2020,comparative,BS,total_assets,资产总计,51627844863.52,CNY,consolidated,20220414.pdf,106,"资产总计 61,492,929,383.64 51,627,844,863.52",source_numeric,2
+2021,2021,current,BS,short_loans,短期借款,98467646.02,CNY,consolidated,20220414.pdf,106,"短期借款 七、32 98,467,646.02 149,000,000.00",source_numeric,1
+2021,2020,comparative,BS,short_loans,短期借款,149000000.00,CNY,consolidated,20220414.pdf,106,"短期借款 七、32 98,467,646.02 149,000,000.00",source_numeric,2
+2021,2021,current,BS,bills_payable,应付票据,9264867052.66,CNY,consolidated,20220414.pdf,106,"应付票据 七、35 9,264,867,052.66 5,197,294,612.71",source_numeric,1
+2021,2020,comparative,BS,bills_payable,应付票据,5197294612.71,CNY,consolidated,20220414.pdf,106,"应付票据 七、35 9,264,867,052.66 5,197,294,612.71",source_numeric,2
+2021,2021,current,BS,payables,应付账款,10172885151.76,CNY,consolidated,20220414.pdf,106,"应付账款 七、36 10,172,885,151.76 7,855,326,473.19",source_numeric,1
+2021,2020,comparative,BS,payables,应付账款,7855326473.19,CNY,consolidated,20220414.pdf,106,"应付账款 七、36 10,172,885,151.76 7,855,326,473.19",source_numeric,2
+2021,2021,current,BS,advance_receipts,预收款项,,CNY,consolidated,20220414.pdf,106,预收款项 七、37,source_blank_not_zero,1
+2021,2020,comparative,BS,advance_receipts,预收款项,,CNY,consolidated,20220414.pdf,106,预收款项 七、37,source_blank_not_zero,2
+2021,2021,current,BS,contract_liabilities,合同负债,8061593776.51,CNY,consolidated,20220414.pdf,106,"合同负债 七、38 8,061,593,776.51 8,559,944,751.63",source_numeric,1
+2021,2020,comparative,BS,contract_liabilities,合同负债,8559944751.63,CNY,consolidated,20220414.pdf,106,"合同负债 七、38 8,061,593,776.51 8,559,944,751.63",source_numeric,2
+2021,2021,current,BS,current_debt_maturities,一年内到期的非流动负债,1119039821.36,CNY,consolidated,20220414.pdf,106,"一年内到期的非流动负债 七、43 1,119,039,821.36 1,497,350,217.14",source_numeric,1
+2021,2020,comparative,BS,current_debt_maturities,一年内到期的非流动负债,1497350217.14,CNY,consolidated,20220414.pdf,106,"一年内到期的非流动负债 七、43 1,119,039,821.36 1,497,350,217.14",source_numeric,2
+2021,2021,current,BS,current_liabilities,流动负债合计,33250194515.01,CNY,consolidated,20220414.pdf,106,"流动负债合计 33,250,194,515.01 27,044,910,022.37",source_numeric,1
+2021,2020,comparative,BS,current_liabilities,流动负债合计,27044910022.37,CNY,consolidated,20220414.pdf,106,"流动负债合计 33,250,194,515.01 27,044,910,022.37",source_numeric,2
+2021,2021,current,BS,long_loans,长期借款,3438748336.60,CNY,consolidated,20220414.pdf,106,"长期借款 七、45 3,438,748,336.60 3,598,420,526.00",source_numeric,1
+2021,2020,comparative,BS,long_loans,长期借款,3598420526.00,CNY,consolidated,20220414.pdf,106,"长期借款 七、45 3,438,748,336.60 3,598,420,526.00",source_numeric,2
+2021,2021,current,BS,bonds,应付债券,1260376859.76,CNY,consolidated,20220414.pdf,106,"应付债券 七、46 1,260,376,859.76 781,207,869.86",source_numeric,1
+2021,2020,comparative,BS,bonds,应付债券,781207869.86,CNY,consolidated,20220414.pdf,106,"应付债券 七、46 1,260,376,859.76 781,207,869.86",source_numeric,2
+2021,2021,current,BS,lease_liabilities,租赁负债,284538794.80,CNY,consolidated,20220414.pdf,107,"租赁负债 七、47 284,538,794.80",source_numeric,1
+2021,2020,comparative,BS,lease_liabilities,租赁负债,,CNY,consolidated,20220414.pdf,107,"租赁负债 七、47 284,538,794.80",source_blank_not_zero,2
+2021,2021,current,BS,total_liabilities,负债合计,42998781986.94,CNY,consolidated,20220414.pdf,107,"负债合计 42,998,781,986.94 36,543,347,929.50",source_numeric,1
+2021,2020,comparative,BS,total_liabilities,负债合计,36543347929.50,CNY,consolidated,20220414.pdf,107,"负债合计 42,998,781,986.94 36,543,347,929.50",source_numeric,2
+2021,2021,current,BS,parent_equity,归属于母公司所有者权益,18394542798.91,CNY,consolidated,20220414.pdf,107,"归属于母公司所有者权益（或股东 | 18,394,542,798.91 14,762,198,540.30",source_numeric,1
+2021,2020,comparative,BS,parent_equity,归属于母公司所有者权益,14762198540.30,CNY,consolidated,20220414.pdf,107,"归属于母公司所有者权益（或股东 | 18,394,542,798.91 14,762,198,540.30",source_numeric,2
+2021,2021,current,BS,minority_equity,少数股东权益,99604597.79,CNY,consolidated,20220414.pdf,107,"少数股东权益 99,604,597.79 322,298,393.72",source_numeric,1
+2021,2020,comparative,BS,minority_equity,少数股东权益,322298393.72,CNY,consolidated,20220414.pdf,107,"少数股东权益 99,604,597.79 322,298,393.72",source_numeric,2
+2021,2021,current,BS,total_equity,所有者权益（或股东权益）合计,18494147396.70,CNY,consolidated,20220414.pdf,107,"所有者权益（或股东权益）合计 18,494,147,396.70 15,084,496,934.02",source_numeric,1
+2021,2020,comparative,BS,total_equity,所有者权益（或股东权益）合计,15084496934.02,CNY,consolidated,20220414.pdf,107,"所有者权益（或股东权益）合计 18,494,147,396.70 15,084,496,934.02",source_numeric,2
+2021,2021,current,IS,revenue,其中：营业收入,27158048361.40,CNY,consolidated,20220414.pdf,109,"其中：营业收入 七、61 27,158,048,361.40 22,456,987,361.30",source_numeric,1
+2021,2020,comparative,IS,revenue,其中：营业收入,22456987361.30,CNY,consolidated,20220414.pdf,109,"其中：营业收入 七、61 27,158,048,361.40 22,456,987,361.30",source_numeric,2
+2021,2021,current,IS,cost,其中：营业成本,21337654548.94,CNY,consolidated,20220414.pdf,110,"其中：营业成本 七、61 21,337,654,548.94 18,287,125,421.79",source_numeric,1
+2021,2020,comparative,IS,cost,其中：营业成本,18287125421.79,CNY,consolidated,20220414.pdf,110,"其中：营业成本 七、61 21,337,654,548.94 18,287,125,421.79",source_numeric,2
+2021,2021,current,IS,operating_profit,营业利润（,3623093174.97,CNY,consolidated,20220414.pdf,110,"三、营业利润（亏损以“－”号填列） 3,623,093,174.97 1,578,978,509.33",source_numeric,1
+2021,2020,comparative,IS,operating_profit,营业利润（,1578978509.33,CNY,consolidated,20220414.pdf,110,"三、营业利润（亏损以“－”号填列） 3,623,093,174.97 1,578,978,509.33",source_numeric,2
+2021,2021,current,IS,profit_before_tax,利润总额（,3589393792.94,CNY,consolidated,20220414.pdf,110,"四、利润总额（亏损总额以“－”号填列） 3,589,393,792.94 1,477,099,558.59",source_numeric,1
+2021,2020,comparative,IS,profit_before_tax,利润总额（,1477099558.59,CNY,consolidated,20220414.pdf,110,"四、利润总额（亏损总额以“－”号填列） 3,589,393,792.94 1,477,099,558.59",source_numeric,2
+2021,2021,current,IS,net_profit,净利润（,2959384770.08,CNY,consolidated,20220414.pdf,110,"五、净利润（净亏损以“－”号填列） 2,959,384,770.08 1,304,315,536.93",source_numeric,1
+2021,2020,comparative,IS,net_profit,净利润（,1304315536.93,CNY,consolidated,20220414.pdf,110,"五、净利润（净亏损以“－”号填列） 2,959,384,770.08 1,304,315,536.93",source_numeric,2
+2021,2021,current,IS,parent_profit,归属于母公司股东的净利润,3101123791.52,CNY,consolidated,20220414.pdf,110,"1.归属于母公司股东的净利润（净亏 | 3,101,123,791.52 1,374,071,306.07",source_numeric,1
+2021,2020,comparative,IS,parent_profit,归属于母公司股东的净利润,1374071306.07,CNY,consolidated,20220414.pdf,110,"1.归属于母公司股东的净利润（净亏 | 3,101,123,791.52 1,374,071,306.07",source_numeric,2
+2021,2021,current,IS,research_expense,研发费用,872379037.41,CNY,consolidated,20220414.pdf,110,"研发费用 七、65 872,379,037.41 600,707,282.41",source_numeric,1
+2021,2020,comparative,IS,research_expense,研发费用,600707282.41,CNY,consolidated,20220414.pdf,110,"研发费用 七、65 872,379,037.41 600,707,282.41",source_numeric,2
+2021,2021,current,IS,finance_expense,财务费用,255127787.91,CNY,consolidated,20220414.pdf,110,"财务费用 七、66 255,127,787.91 385,575,479.82",source_numeric,1
+2021,2020,comparative,IS,finance_expense,财务费用,385575479.82,CNY,consolidated,20220414.pdf,110,"财务费用 七、66 255,127,787.91 385,575,479.82",source_numeric,2
+2021,2021,current,IS,interest_expense,其中：利息费用,403973673.13,CNY,consolidated,20220414.pdf,110,"其中：利息费用 403,973,673.13 591,816,940.37",source_numeric,1
+2021,2020,comparative,IS,interest_expense,其中：利息费用,591816940.37,CNY,consolidated,20220414.pdf,110,"其中：利息费用 403,973,673.13 591,816,940.37",source_numeric,2
+2021,2021,current,IS,impairment,资产减值损失,-200531298.85,CNY,consolidated,20220414.pdf,110,"资产减值损失（损失以“-”号填列） 七、72 -200,531,298.85 -66,220,781.25",source_numeric,1
+2021,2020,comparative,IS,impairment,资产减值损失,-66220781.25,CNY,consolidated,20220414.pdf,110,"资产减值损失（损失以“-”号填列） 七、72 -200,531,298.85 -66,220,781.25",source_numeric,2
+2021,2021,current,IS,credit_impairment,信用减值损失,-139725569.35,CNY,consolidated,20220414.pdf,110,"信用减值损失（损失以“-”号填列） 七、71 -139,725,569.35 -71,405,253.07",source_numeric,1
+2021,2020,comparative,IS,credit_impairment,信用减值损失,-71405253.07,CNY,consolidated,20220414.pdf,110,"信用减值损失（损失以“-”号填列） 七、71 -139,725,569.35 -71,405,253.07",source_numeric,2
+2021,2021,current,CF,sales_cash,销售商品、提供劳务收到的现,24572817510.97,CNY,consolidated,20220414.pdf,113,"销售商品、提供劳务收到的现金 24,572,817,510.97 36,872,005,875.63",source_numeric,1
+2021,2020,comparative,CF,sales_cash,销售商品、提供劳务收到的现,36872005875.63,CNY,consolidated,20220414.pdf,113,"销售商品、提供劳务收到的现金 24,572,817,510.97 36,872,005,875.63",source_numeric,2
+2021,2021,current,CF,tax_refunds,收到的税费返还,300386892.66,CNY,consolidated,20220414.pdf,113,"收到的税费返还 300,386,892.66 43,569,922.89",source_numeric,1
+2021,2020,comparative,CF,tax_refunds,收到的税费返还,43569922.89,CNY,consolidated,20220414.pdf,113,"收到的税费返还 300,386,892.66 43,569,922.89",source_numeric,2
+2021,2021,current,CF,operating_in,经营活动现金流入小计,25491362306.58,CNY,consolidated,20220414.pdf,113,"经营活动现金流入小计 七、78（1） 25,491,362,306.58 37,616,028,701.73",source_numeric,1
+2021,2020,comparative,CF,operating_in,经营活动现金流入小计,37616028701.73,CNY,consolidated,20220414.pdf,113,"经营活动现金流入小计 七、78（1） 25,491,362,306.58 37,616,028,701.73",source_numeric,2
+2021,2021,current,CF,purchase_cash,购买商品、接受劳务支付的现,15895042038.51,CNY,consolidated,20220414.pdf,113,"购买商品、接受劳务支付的现金 15,895,042,038.51 30,732,453,551.48",source_numeric,1
+2021,2020,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,30732453551.48,CNY,consolidated,20220414.pdf,113,"购买商品、接受劳务支付的现金 15,895,042,038.51 30,732,453,551.48",source_numeric,2
+2021,2021,current,CF,employee_cash,支付给职工,1465770206.77,CNY,consolidated,20220414.pdf,113,"支付给职工及为职工支付的现金 1,465,770,206.77 1,230,844,976.60",source_numeric,1
+2021,2020,comparative,CF,employee_cash,支付给职工,1230844976.60,CNY,consolidated,20220414.pdf,113,"支付给职工及为职工支付的现金 1,465,770,206.77 1,230,844,976.60",source_numeric,2
+2021,2021,current,CF,tax_paid,支付的各项税费,1317076419.24,CNY,consolidated,20220414.pdf,113,"支付的各项税费 1,317,076,419.24 704,441,928.53",source_numeric,1
+2021,2020,comparative,CF,tax_paid,支付的各项税费,704441928.53,CNY,consolidated,20220414.pdf,113,"支付的各项税费 1,317,076,419.24 704,441,928.53",source_numeric,2
+2021,2021,current,CF,operating_out,经营活动现金流出小计,20093822899.36,CNY,consolidated,20220414.pdf,113,"经营活动现金流出小计 七、78（2） 20,093,822,899.36 33,985,274,633.98",source_numeric,1
+2021,2020,comparative,CF,operating_out,经营活动现金流出小计,33985274633.98,CNY,consolidated,20220414.pdf,113,"经营活动现金流出小计 七、78（2） 20,093,822,899.36 33,985,274,633.98",source_numeric,2
+2021,2021,current,CF,cfo,经营活动产生的现金流量净额,5397539407.22,CNY,consolidated,20220414.pdf,113,"经营活动产生的现金流量净额 5,397,539,407.22 3,630,754,067.75",source_numeric,1
+2021,2020,comparative,CF,cfo,经营活动产生的现金流量净额,3630754067.75,CNY,consolidated,20220414.pdf,113,"经营活动产生的现金流量净额 5,397,539,407.22 3,630,754,067.75",source_numeric,2
+2021,2021,current,CF,capex,购建固定资产、无形资产和其他长期资,7387059931.94,CNY,consolidated,20220414.pdf,113,"购建固定资产、无形资产和其他长期 7,387,059,931.94 3,306,031,229.98",source_numeric,1
+2021,2020,comparative,CF,capex,购建固定资产、无形资产和其他长期资,3306031229.98,CNY,consolidated,20220414.pdf,113,"购建固定资产、无形资产和其他长期 7,387,059,931.94 3,306,031,229.98",source_numeric,2
+2021,2021,current,CF,cfi,投资活动产生的现金流量净额,-6935411973.08,CNY,consolidated,20220414.pdf,114,"投资活动产生的现金流量净额 -6,935,411,973.08 -3,763,221,942.99",source_numeric,1
+2021,2020,comparative,CF,cfi,投资活动产生的现金流量净额,-3763221942.99,CNY,consolidated,20220414.pdf,114,"投资活动产生的现金流量净额 -6,935,411,973.08 -3,763,221,942.99",source_numeric,2
+2021,2021,current,CF,cff,筹资活动产生的现金流量净额,-635844492.14,CNY,consolidated,20220414.pdf,114,"筹资活动产生的现金流量净额 -635,844,492.14 5,169,362,889.51",source_numeric,1
+2021,2020,comparative,CF,cff,筹资活动产生的现金流量净额,5169362889.51,CNY,consolidated,20220414.pdf,114,"筹资活动产生的现金流量净额 -635,844,492.14 5,169,362,889.51",source_numeric,2
+2021,2021,current,CF,cash_begin,加：期初现金及现金等价物余额,15292439894.15,CNY,consolidated,20220414.pdf,114,"加：期初现金及现金等价物余额 15,292,439,894.15 10,255,861,089.76",source_numeric,1
+2021,2020,comparative,CF,cash_begin,加：期初现金及现金等价物余额,10255861089.76,CNY,consolidated,20220414.pdf,114,"加：期初现金及现金等价物余额 15,292,439,894.15 10,255,861,089.76",source_numeric,2
+2021,2021,current,CF,cash_end,期末现金及现金等价物余额,13105847068.63,CNY,consolidated,20220414.pdf,114,"六、期末现金及现金等价物余额 13,105,847,068.63 15,292,439,894.15",source_numeric,1
+2021,2020,comparative,CF,cash_end,期末现金及现金等价物余额,15292439894.15,CNY,consolidated,20220414.pdf,114,"六、期末现金及现金等价物余额 13,105,847,068.63 15,292,439,894.15",source_numeric,2
+2022,2022,current,BS,cash,货币资金,11157064897.68,CNY,consolidated,20230428.pdf,94,"货币资金 七、1 11,157,064,897.68 14,070,916,969.33",source_numeric,1
+2022,2021,comparative,BS,cash,货币资金,14070916969.33,CNY,consolidated,20230428.pdf,94,"货币资金 七、1 11,157,064,897.68 14,070,916,969.33",source_numeric,2
+2022,2022,current,BS,bills_receivable,应收票据,,CNY,consolidated,20230428.pdf,94,"应收票据 七、4 16,255,258.49",source_blank_not_zero,1
+2022,2021,comparative,BS,bills_receivable,应收票据,16255258.49,CNY,consolidated,20230428.pdf,94,"应收票据 七、4 16,255,258.49",source_numeric,2
+2022,2022,current,BS,receivables,应收账款,10773783527.49,CNY,consolidated,20230428.pdf,94,"应收账款 七、5 10,773,783,527.49 5,855,787,488.09",source_numeric,1
+2022,2021,comparative,BS,receivables,应收账款,5855787488.09,CNY,consolidated,20230428.pdf,94,"应收账款 七、5 10,773,783,527.49 5,855,787,488.09",source_numeric,2
+2022,2022,current,BS,receivables_financing,应收款项融资,1175566142.98,CNY,consolidated,20230428.pdf,94,"应收款项融资 七、6 1,175,566,142.98 1,520,524,151.53",source_numeric,1
+2022,2021,comparative,BS,receivables_financing,应收款项融资,1520524151.53,CNY,consolidated,20230428.pdf,94,"应收款项融资 七、6 1,175,566,142.98 1,520,524,151.53",source_numeric,2
+2022,2022,current,BS,prepayments,预付款项,843632141.93,CNY,consolidated,20230428.pdf,94,"预付款项 七、7 843,632,141.93 500,277,416.87",source_numeric,1
+2022,2021,comparative,BS,prepayments,预付款项,500277416.87,CNY,consolidated,20230428.pdf,94,"预付款项 七、7 843,632,141.93 500,277,416.87",source_numeric,2
+2022,2022,current,BS,inventory,存货,8024077123.53,CNY,consolidated,20230428.pdf,94,"存货 七、9 8,024,077,123.53 9,664,463,887.20",source_numeric,1
+2022,2021,comparative,BS,inventory,存货,9664463887.20,CNY,consolidated,20230428.pdf,94,"存货 七、9 8,024,077,123.53 9,664,463,887.20",source_numeric,2
+2022,2022,current,BS,contract_assets,合同资产,652644533.38,CNY,consolidated,20230428.pdf,94,"合同资产 七、10 652,644,533.38 530,586,825.37",source_numeric,1
+2022,2021,comparative,BS,contract_assets,合同资产,530586825.37,CNY,consolidated,20230428.pdf,94,"合同资产 七、10 652,644,533.38 530,586,825.37",source_numeric,2
+2022,2022,current,BS,current_assets,流动资产合计,35464047470.76,CNY,consolidated,20230428.pdf,95,"流动资产合计 35,464,047,470.76 37,686,366,368.74",source_numeric,1
+2022,2021,comparative,BS,current_assets,流动资产合计,37686366368.74,CNY,consolidated,20230428.pdf,95,"流动资产合计 35,464,047,470.76 37,686,366,368.74",source_numeric,2
+2022,2022,current,BS,fixed_assets,固定资产,10715292022.58,CNY,consolidated,20230428.pdf,95,"固定资产 七、21 10,715,292,022.58 9,605,546,252.23",source_numeric,1
+2022,2021,comparative,BS,fixed_assets,固定资产,9605546252.23,CNY,consolidated,20230428.pdf,95,"固定资产 七、21 10,715,292,022.58 9,605,546,252.23",source_numeric,2
+2022,2022,current,BS,construction,在建工程,5606789873.45,CNY,consolidated,20230428.pdf,95,"在建工程 七、22 5,606,789,873.45 1,388,631,313.97",source_numeric,1
+2022,2021,comparative,BS,construction,在建工程,1388631313.97,CNY,consolidated,20230428.pdf,95,"在建工程 七、22 5,606,789,873.45 1,388,631,313.97",source_numeric,2
+2022,2022,current,BS,intangibles,无形资产,1585047039.31,CNY,consolidated,20230428.pdf,95,"无形资产 七、26 1,585,047,039.31 894,447,421.54",source_numeric,1
+2022,2021,comparative,BS,intangibles,无形资产,894447421.54,CNY,consolidated,20230428.pdf,95,"无形资产 七、26 1,585,047,039.31 894,447,421.54",source_numeric,2
+2022,2022,current,BS,development_costs,开发支出,258860906.13,CNY,consolidated,20230428.pdf,95,"开发支出 七、27 258,860,906.13 254,228,355.08",source_numeric,1
+2022,2021,comparative,BS,development_costs,开发支出,254228355.08,CNY,consolidated,20230428.pdf,95,"开发支出 七、27 258,860,906.13 254,228,355.08",source_numeric,2
+2022,2022,current,BS,total_assets,资产总计,68940224911.06,CNY,consolidated,20230428.pdf,95,"资产总计 68,940,224,911.06 61,549,589,345.73",source_numeric,1
+2022,2021,comparative,BS,total_assets,资产总计,61549589345.73,CNY,consolidated,20230428.pdf,95,"资产总计 68,940,224,911.06 61,549,589,345.73",source_numeric,2
+2022,2022,current,BS,short_loans,短期借款,259513744.63,CNY,consolidated,20230428.pdf,95,"短期借款 七、32 259,513,744.63 98,467,646.02",source_numeric,1
+2022,2021,comparative,BS,short_loans,短期借款,98467646.02,CNY,consolidated,20230428.pdf,95,"短期借款 七、32 259,513,744.63 98,467,646.02",source_numeric,2
+2022,2022,current,BS,bills_payable,应付票据,7568416438.14,CNY,consolidated,20230428.pdf,95,"应付票据 七、35 7,568,416,438.14 9,264,867,052.66",source_numeric,1
+2022,2021,comparative,BS,bills_payable,应付票据,9264867052.66,CNY,consolidated,20230428.pdf,95,"应付票据 七、35 7,568,416,438.14 9,264,867,052.66",source_numeric,2
+2022,2022,current,BS,payables,应付账款,9660320401.29,CNY,consolidated,20230428.pdf,95,"应付账款 七、36 9,660,320,401.29 10,172,885,151.76",source_numeric,1
+2022,2021,comparative,BS,payables,应付账款,10172885151.76,CNY,consolidated,20230428.pdf,95,"应付账款 七、36 9,660,320,401.29 10,172,885,151.76",source_numeric,2
+2022,2022,current,BS,advance_receipts,预收款项,,CNY,consolidated,20230428.pdf,95,预收款项 七、37,source_blank_not_zero,1
+2022,2021,comparative,BS,advance_receipts,预收款项,,CNY,consolidated,20230428.pdf,95,预收款项 七、37,source_blank_not_zero,2
+2022,2022,current,BS,contract_liabilities,合同负债,7565805012.30,CNY,consolidated,20230428.pdf,95,"合同负债 七、38 7,565,805,012.30 8,061,593,776.51",source_numeric,1
+2022,2021,comparative,BS,contract_liabilities,合同负债,8061593776.51,CNY,consolidated,20230428.pdf,95,"合同负债 七、38 7,565,805,012.30 8,061,593,776.51",source_numeric,2
+2022,2022,current,BS,current_debt_maturities,一年内到期的非流动负债,669299149.04,CNY,consolidated,20230428.pdf,96,"一年内到期的非流动负债 七、43 669,299,149.04 1,119,039,821.36",source_numeric,1
+2022,2021,comparative,BS,current_debt_maturities,一年内到期的非流动负债,1119039821.36,CNY,consolidated,20230428.pdf,96,"一年内到期的非流动负债 七、43 669,299,149.04 1,119,039,821.36",source_numeric,2
+2022,2022,current,BS,current_liabilities,流动负债合计,28357071907.82,CNY,consolidated,20230428.pdf,96,"流动负债合计 28,357,071,907.82 33,250,194,515.01",source_numeric,1
+2022,2021,comparative,BS,current_liabilities,流动负债合计,33250194515.01,CNY,consolidated,20230428.pdf,96,"流动负债合计 28,357,071,907.82 33,250,194,515.01",source_numeric,2
+2022,2022,current,BS,long_loans,长期借款,5256600986.02,CNY,consolidated,20230428.pdf,96,"长期借款 七、45 5,256,600,986.02 3,438,748,336.60",source_numeric,1
+2022,2021,comparative,BS,long_loans,长期借款,3438748336.60,CNY,consolidated,20230428.pdf,96,"长期借款 七、45 5,256,600,986.02 3,438,748,336.60",source_numeric,2
+2022,2022,current,BS,bonds,应付债券,1382153025.30,CNY,consolidated,20230428.pdf,96,"应付债券 七、46 1,382,153,025.30 1,260,376,859.76",source_numeric,1
+2022,2021,comparative,BS,bonds,应付债券,1260376859.76,CNY,consolidated,20230428.pdf,96,"应付债券 七、46 1,382,153,025.30 1,260,376,859.76",source_numeric,2
+2022,2022,current,BS,lease_liabilities,租赁负债,61257922.26,CNY,consolidated,20230428.pdf,96,"租赁负债 七、47 61,257,922.26 284,538,794.80",source_numeric,1
+2022,2021,comparative,BS,lease_liabilities,租赁负债,284538794.80,CNY,consolidated,20230428.pdf,96,"租赁负债 七、47 61,257,922.26 284,538,794.80",source_numeric,2
+2022,2022,current,BS,total_liabilities,负债合计,40574884646.57,CNY,consolidated,20230428.pdf,96,"负债合计 40,574,884,646.57 42,998,781,986.94",source_numeric,1
+2022,2021,comparative,BS,total_liabilities,负债合计,42998781986.94,CNY,consolidated,20230428.pdf,96,"负债合计 40,574,884,646.57 42,998,781,986.94",source_numeric,2
+2022,2022,current,BS,parent_equity,归属于母公司所有者权益,28113710200.58,CNY,consolidated,20230428.pdf,96,"归属于母公司所有者权益 | 28,113,710,200.58 18,451,202,761.00",source_numeric,1
+2022,2021,comparative,BS,parent_equity,归属于母公司所有者权益,18451202761.00,CNY,consolidated,20230428.pdf,96,"归属于母公司所有者权益 | 28,113,710,200.58 18,451,202,761.00",source_numeric,2
+2022,2022,current,BS,minority_equity,少数股东权益,251630063.91,CNY,consolidated,20230428.pdf,96,"少数股东权益 251,630,063.91 99,604,597.79",source_numeric,1
+2022,2021,comparative,BS,minority_equity,少数股东权益,99604597.79,CNY,consolidated,20230428.pdf,96,"少数股东权益 251,630,063.91 99,604,597.79",source_numeric,2
+2022,2022,current,BS,total_equity,所有者权益（或股东权益）合计,28365340264.49,CNY,consolidated,20230428.pdf,96,"所有者权益（或股东权 | 28,365,340,264.49 18,550,807,358.79",source_numeric,1
+2022,2021,comparative,BS,total_equity,所有者权益（或股东权益）合计,18550807358.79,CNY,consolidated,20230428.pdf,96,"所有者权益（或股东权 | 28,365,340,264.49 18,550,807,358.79",source_numeric,2
+2022,2022,current,IS,revenue,其中：营业收入,30747775048.56,CNY,consolidated,20230428.pdf,98,"其中：营业收入 七、61 30,747,775,048.56 27,216,249,113.68",source_numeric,1
+2022,2021,comparative,IS,revenue,其中：营业收入,27216249113.68,CNY,consolidated,20230428.pdf,98,"其中：营业收入 七、61 30,747,775,048.56 27,216,249,113.68",source_numeric,2
+2022,2022,current,IS,cost,其中：营业成本,24602019557.51,CNY,consolidated,20230428.pdf,99,"其中：营业成本 七、61 24,602,019,557.51 21,339,195,339.13",source_numeric,1
+2022,2021,comparative,IS,cost,其中：营业成本,21339195339.13,CNY,consolidated,20230428.pdf,99,"其中：营业成本 七、61 24,602,019,557.51 21,339,195,339.13",source_numeric,2
+2022,2022,current,IS,operating_profit,营业利润（,3864929429.56,CNY,consolidated,20230428.pdf,99,"三、营业利润（亏损以“－”号填列） 3,864,929,429.56 3,679,753,137.06",source_numeric,1
+2022,2021,comparative,IS,operating_profit,营业利润（,3679753137.06,CNY,consolidated,20230428.pdf,99,"三、营业利润（亏损以“－”号填列） 3,864,929,429.56 3,679,753,137.06",source_numeric,2
+2022,2022,current,IS,profit_before_tax,利润总额（,3857966700.07,CNY,consolidated,20230428.pdf,99,"四、利润总额（亏损总额以“－”号填列） 3,857,966,700.07 3,646,053,755.03",source_numeric,1
+2022,2021,comparative,IS,profit_before_tax,利润总额（,3646053755.03,CNY,consolidated,20230428.pdf,99,"四、利润总额（亏损总额以“－”号填列） 3,857,966,700.07 3,646,053,755.03",source_numeric,2
+2022,2022,current,IS,net_profit,净利润（,3449212329.06,CNY,consolidated,20230428.pdf,99,"五、净利润（净亏损以“－”号填列） 3,449,212,329.06 3,016,044,732.17",source_numeric,1
+2022,2021,comparative,IS,net_profit,净利润（,3016044732.17,CNY,consolidated,20230428.pdf,99,"五、净利润（净亏损以“－”号填列） 3,449,212,329.06 3,016,044,732.17",source_numeric,2
+2022,2022,current,IS,parent_profit,归属于母公司股东的净利润,3454607512.89,CNY,consolidated,20230428.pdf,99,"1.归属于母公司股东的净利润（净亏 3,454,607,512.89 3,157,783,753.61",source_numeric,1
+2022,2021,comparative,IS,parent_profit,归属于母公司股东的净利润,3157783753.61,CNY,consolidated,20230428.pdf,99,"1.归属于母公司股东的净利润（净亏 3,454,607,512.89 3,157,783,753.61",source_numeric,2
+2022,2022,current,IS,research_expense,研发费用,843785630.94,CNY,consolidated,20230428.pdf,99,"研发费用 七、65 843,785,630.94 872,379,037.41",source_numeric,1
+2022,2021,comparative,IS,research_expense,研发费用,872379037.41,CNY,consolidated,20230428.pdf,99,"研发费用 七、65 843,785,630.94 872,379,037.41",source_numeric,2
+2022,2022,current,IS,finance_expense,财务费用,-47588202.30,CNY,consolidated,20230428.pdf,99,"财务费用 七、66 -47,588,202.30 255,127,787.91",source_numeric,1
+2022,2021,comparative,IS,finance_expense,财务费用,255127787.91,CNY,consolidated,20230428.pdf,99,"财务费用 七、66 -47,588,202.30 255,127,787.91",source_numeric,2
+2022,2022,current,IS,interest_expense,其中：利息费用,303975920.24,CNY,consolidated,20230428.pdf,99,"其中：利息费用 303,975,920.24 403,973,673.13",source_numeric,1
+2022,2021,comparative,IS,interest_expense,其中：利息费用,403973673.13,CNY,consolidated,20230428.pdf,99,"其中：利息费用 303,975,920.24 403,973,673.13",source_numeric,2
+2022,2022,current,IS,impairment,资产减值损失,-182825915.35,CNY,consolidated,20230428.pdf,99,"资产减值损失（损失以“-”号填列） 七、72 -182,825,915.35 -200,531,298.85",source_numeric,1
+2022,2021,comparative,IS,impairment,资产减值损失,-200531298.85,CNY,consolidated,20230428.pdf,99,"资产减值损失（损失以“-”号填列） 七、72 -182,825,915.35 -200,531,298.85",source_numeric,2
+2022,2022,current,IS,credit_impairment,信用减值损失,-236954218.33,CNY,consolidated,20230428.pdf,99,"信用减值损失（损失以“-”号填列） 七、71 -236,954,218.33 -139,725,569.35",source_numeric,1
+2022,2021,comparative,IS,credit_impairment,信用减值损失,-139725569.35,CNY,consolidated,20230428.pdf,99,"信用减值损失（损失以“-”号填列） 七、71 -236,954,218.33 -139,725,569.35",source_numeric,2
+2022,2022,current,CF,sales_cash,销售商品、提供劳务收到的现,23447945107.13,CNY,consolidated,20230428.pdf,102,"销售商品、提供劳务收到的现金 23,447,945,107.13 24,572,817,510.97",source_numeric,1
+2022,2021,comparative,CF,sales_cash,销售商品、提供劳务收到的现,24572817510.97,CNY,consolidated,20230428.pdf,102,"销售商品、提供劳务收到的现金 23,447,945,107.13 24,572,817,510.97",source_numeric,2
+2022,2022,current,CF,tax_refunds,收到的税费返还,499775250.65,CNY,consolidated,20230428.pdf,102,"收到的税费返还 499,775,250.65 300,386,892.66",source_numeric,1
+2022,2021,comparative,CF,tax_refunds,收到的税费返还,300386892.66,CNY,consolidated,20230428.pdf,102,"收到的税费返还 499,775,250.65 300,386,892.66",source_numeric,2
+2022,2022,current,CF,operating_in,经营活动现金流入小计,24846691364.72,CNY,consolidated,20230428.pdf,102,"经营活动现金流入小计 七、 78 （1） 24,846,691,364.72 25,491,362,306.58",source_numeric,1
+2022,2021,comparative,CF,operating_in,经营活动现金流入小计,25491362306.58,CNY,consolidated,20230428.pdf,102,"经营活动现金流入小计 七、 78 （1） 24,846,691,364.72 25,491,362,306.58",source_numeric,2
+2022,2022,current,CF,purchase_cash,购买商品、接受劳务支付的现,20425556780.51,CNY,consolidated,20230428.pdf,102,"购买商品、接受劳务支付的现金 20,425,556,780.51 15,895,042,038.51",source_numeric,1
+2022,2021,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,15895042038.51,CNY,consolidated,20230428.pdf,102,"购买商品、接受劳务支付的现金 20,425,556,780.51 15,895,042,038.51",source_numeric,2
+2022,2022,current,CF,employee_cash,支付给职工,1709155124.98,CNY,consolidated,20230428.pdf,102,"支付给职工及为职工支付的现金 1,709,155,124.98 1,465,770,206.77",source_numeric,1
+2022,2021,comparative,CF,employee_cash,支付给职工,1465770206.77,CNY,consolidated,20230428.pdf,102,"支付给职工及为职工支付的现金 1,709,155,124.98 1,465,770,206.77",source_numeric,2
+2022,2022,current,CF,tax_paid,支付的各项税费,1712718384.23,CNY,consolidated,20230428.pdf,102,"支付的各项税费 1,712,718,384.23 1,317,076,419.24",source_numeric,1
+2022,2021,comparative,CF,tax_paid,支付的各项税费,1317076419.24,CNY,consolidated,20230428.pdf,102,"支付的各项税费 1,712,718,384.23 1,317,076,419.24",source_numeric,2
+2022,2022,current,CF,operating_out,经营活动现金流出小计,25642589308.55,CNY,consolidated,20230428.pdf,102,"经营活动现金流出小计 七、 78 （2） 25,642,589,308.55 20,093,822,899.36",source_numeric,1
+2022,2021,comparative,CF,operating_out,经营活动现金流出小计,20093822899.36,CNY,consolidated,20230428.pdf,102,"经营活动现金流出小计 七、 78 （2） 25,642,589,308.55 20,093,822,899.36",source_numeric,2
+2022,2022,current,CF,cfo,经营活动产生的现金流量净额,-795897943.83,CNY,consolidated,20230428.pdf,102,"经营活动产生的现金流量净额 -795,897,943.83 5,397,539,407.22",source_numeric,1
+2022,2021,comparative,CF,cfo,经营活动产生的现金流量净额,5397539407.22,CNY,consolidated,20230428.pdf,102,"经营活动产生的现金流量净额 -795,897,943.83 5,397,539,407.22",source_numeric,2
+2022,2022,current,CF,capex,购建固定资产、无形资产和其他长期资,8009114388.48,CNY,consolidated,20230428.pdf,102,"购建固定资产、无形资产和其他长期资 | 8,009,114,388.48 7,387,059,931.94",source_numeric,1
+2022,2021,comparative,CF,capex,购建固定资产、无形资产和其他长期资,7387059931.94,CNY,consolidated,20230428.pdf,102,"购建固定资产、无形资产和其他长期资 | 8,009,114,388.48 7,387,059,931.94",source_numeric,2
+2022,2022,current,CF,cfi,投资活动产生的现金流量净额,-9950135821.99,CNY,consolidated,20230428.pdf,102,"投资活动产生的现金流量净额 -9,950,135,821.99 -6,935,411,973.08",source_numeric,1
+2022,2021,comparative,CF,cfi,投资活动产生的现金流量净额,-6935411973.08,CNY,consolidated,20230428.pdf,102,"投资活动产生的现金流量净额 -9,950,135,821.99 -6,935,411,973.08",source_numeric,2
+2022,2022,current,CF,cff,筹资活动产生的现金流量净额,7817254538.57,CNY,consolidated,20230428.pdf,103,"筹资活动产生的现金流量净额 7,817,254,538.57 -635,844,492.14",source_numeric,1
+2022,2021,comparative,CF,cff,筹资活动产生的现金流量净额,-635844492.14,CNY,consolidated,20230428.pdf,103,"筹资活动产生的现金流量净额 7,817,254,538.57 -635,844,492.14",source_numeric,2
+2022,2022,current,CF,cash_begin,加：期初现金及现金等价物余额,13105847068.63,CNY,consolidated,20230428.pdf,103,"加：期初现金及现金等价物余额 13,105,847,068.63 15,292,439,894.15",source_numeric,1
+2022,2021,comparative,CF,cash_begin,加：期初现金及现金等价物余额,15292439894.15,CNY,consolidated,20230428.pdf,103,"加：期初现金及现金等价物余额 13,105,847,068.63 15,292,439,894.15",source_numeric,2
+2022,2022,current,CF,cash_end,期末现金及现金等价物余额,10530081360.65,CNY,consolidated,20230428.pdf,103,"六、期末现金及现金等价物余额 10,530,081,360.65 13,105,847,068.63",source_numeric,1
+2022,2021,comparative,CF,cash_end,期末现金及现金等价物余额,13105847068.63,CNY,consolidated,20230428.pdf,103,"六、期末现金及现金等价物余额 10,530,081,360.65 13,105,847,068.63",source_numeric,2
+2023,2023,current,BS,cash,货币资金,12959359723.44,CNY,consolidated,20240428.pdf,90,"货币资金 七、1 12,959,359,723.44 11,157,064,897.68",source_numeric,1
+2023,2022,comparative,BS,cash,货币资金,11157064897.68,CNY,consolidated,20240428.pdf,90,"货币资金 七、1 12,959,359,723.44 11,157,064,897.68",source_numeric,2
+2023,2023,current,BS,bills_receivable,应收票据,8285883.55,CNY,consolidated,20240428.pdf,90,"应收票据 七、4 8,285,883.55",source_numeric,1
+2023,2022,comparative,BS,bills_receivable,应收票据,,CNY,consolidated,20240428.pdf,90,"应收票据 七、4 8,285,883.55",source_blank_not_zero,2
+2023,2023,current,BS,receivables,应收账款,13922887719.49,CNY,consolidated,20240428.pdf,90,"应收账款 七、5 13,922,887,719.49 10,773,783,527.49",source_numeric,1
+2023,2022,comparative,BS,receivables,应收账款,10773783527.49,CNY,consolidated,20240428.pdf,90,"应收账款 七、5 13,922,887,719.49 10,773,783,527.49",source_numeric,2
+2023,2023,current,BS,receivables_financing,应收款项融资,786889059.96,CNY,consolidated,20240428.pdf,90,"应收款项融资 七、7 786,889,059.96 1,175,566,142.98",source_numeric,1
+2023,2022,comparative,BS,receivables_financing,应收款项融资,1175566142.98,CNY,consolidated,20240428.pdf,90,"应收款项融资 七、7 786,889,059.96 1,175,566,142.98",source_numeric,2
+2023,2023,current,BS,prepayments,预付款项,765185397.59,CNY,consolidated,20240428.pdf,90,"预付款项 七、8 765,185,397.59 843,632,141.93",source_numeric,1
+2023,2022,comparative,BS,prepayments,预付款项,843632141.93,CNY,consolidated,20240428.pdf,90,"预付款项 七、8 765,185,397.59 843,632,141.93",source_numeric,2
+2023,2023,current,BS,inventory,存货,9668695281.76,CNY,consolidated,20240428.pdf,90,"存货 七、10 9,668,695,281.76 8,024,077,123.53",source_numeric,1
+2023,2022,comparative,BS,inventory,存货,8024077123.53,CNY,consolidated,20240428.pdf,90,"存货 七、10 9,668,695,281.76 8,024,077,123.53",source_numeric,2
+2023,2023,current,BS,contract_assets,合同资产,809011938.98,CNY,consolidated,20240428.pdf,90,"合同资产 七、6 809,011,938.98 652,644,533.38",source_numeric,1
+2023,2022,comparative,BS,contract_assets,合同资产,652644533.38,CNY,consolidated,20240428.pdf,90,"合同资产 七、6 809,011,938.98 652,644,533.38",source_numeric,2
+2023,2023,current,BS,current_assets,流动资产合计,43362686284.90,CNY,consolidated,20240428.pdf,90,"流动资产合计 43,362,686,284.90 35,464,047,470.76",source_numeric,1
+2023,2022,comparative,BS,current_assets,流动资产合计,35464047470.76,CNY,consolidated,20240428.pdf,90,"流动资产合计 43,362,686,284.90 35,464,047,470.76",source_numeric,2
+2023,2023,current,BS,fixed_assets,固定资产,13419300404.95,CNY,consolidated,20240428.pdf,90,"固定资产 七、21 13,419,300,404.95 10,715,292,022.58",source_numeric,1
+2023,2022,comparative,BS,fixed_assets,固定资产,10715292022.58,CNY,consolidated,20240428.pdf,90,"固定资产 七、21 13,419,300,404.95 10,715,292,022.58",source_numeric,2
+2023,2023,current,BS,construction,在建工程,8777325916.28,CNY,consolidated,20240428.pdf,91,"在建工程 七、22 8,777,325,916.28 5,606,789,873.45",source_numeric,1
+2023,2022,comparative,BS,construction,在建工程,5606789873.45,CNY,consolidated,20240428.pdf,91,"在建工程 七、22 8,777,325,916.28 5,606,789,873.45",source_numeric,2
+2023,2023,current,BS,intangibles,无形资产,2046329576.77,CNY,consolidated,20240428.pdf,91,"无形资产 七、26 2,046,329,576.77 1,585,047,039.31",source_numeric,1
+2023,2022,comparative,BS,intangibles,无形资产,1585047039.31,CNY,consolidated,20240428.pdf,91,"无形资产 七、26 2,046,329,576.77 1,585,047,039.31",source_numeric,2
+2023,2023,current,BS,development_costs,开发支出,240544900.89,CNY,consolidated,20240428.pdf,91,"开发支出 八 240,544,900.89 258,860,906.13",source_numeric,1
+2023,2022,comparative,BS,development_costs,开发支出,258860906.13,CNY,consolidated,20240428.pdf,91,"开发支出 八 240,544,900.89 258,860,906.13",source_numeric,2
+2023,2023,current,BS,total_assets,资产总计,83861255864.75,CNY,consolidated,20240428.pdf,91,"资产总计 83,861,255,864.75 68,940,811,440.84",source_numeric,1
+2023,2022,comparative,BS,total_assets,资产总计,68940811440.84,CNY,consolidated,20240428.pdf,91,"资产总计 83,861,255,864.75 68,940,811,440.84",source_numeric,2
+2023,2023,current,BS,short_loans,短期借款,863511594.28,CNY,consolidated,20240428.pdf,91,"短期借款 七、32 863,511,594.28 259,513,744.63",source_numeric,1
+2023,2022,comparative,BS,short_loans,短期借款,259513744.63,CNY,consolidated,20240428.pdf,91,"短期借款 七、32 863,511,594.28 259,513,744.63",source_numeric,2
+2023,2023,current,BS,bills_payable,应付票据,11381184848.79,CNY,consolidated,20240428.pdf,91,"应付票据 七、35 11,381,184,848.79 7,568,416,438.14",source_numeric,1
+2023,2022,comparative,BS,bills_payable,应付票据,7568416438.14,CNY,consolidated,20240428.pdf,91,"应付票据 七、35 11,381,184,848.79 7,568,416,438.14",source_numeric,2
+2023,2023,current,BS,payables,应付账款,11110918339.98,CNY,consolidated,20240428.pdf,91,"应付账款 七、36 11,110,918,339.98 9,660,320,401.29",source_numeric,1
+2023,2022,comparative,BS,payables,应付账款,9660320401.29,CNY,consolidated,20240428.pdf,91,"应付账款 七、36 11,110,918,339.98 9,660,320,401.29",source_numeric,2
+2023,2023,current,BS,advance_receipts,预收款项,,CNY,consolidated,20240428.pdf,91,预收款项 七、37,source_blank_not_zero,1
+2023,2022,comparative,BS,advance_receipts,预收款项,,CNY,consolidated,20240428.pdf,91,预收款项 七、37,source_blank_not_zero,2
+2023,2023,current,BS,contract_liabilities,合同负债,7620019245.87,CNY,consolidated,20240428.pdf,91,"合同负债 七、38 7,620,019,245.87 7,565,805,012.30",source_numeric,1
+2023,2022,comparative,BS,contract_liabilities,合同负债,7565805012.30,CNY,consolidated,20240428.pdf,91,"合同负债 七、38 7,620,019,245.87 7,565,805,012.30",source_numeric,2
+2023,2023,current,BS,current_debt_maturities,一年内到期的非流动负债,2589772135.66,CNY,consolidated,20240428.pdf,91,"一年内到期的非流动负债 七、43 2,589,772,135.66 669,299,149.04",source_numeric,1
+2023,2022,comparative,BS,current_debt_maturities,一年内到期的非流动负债,669299149.04,CNY,consolidated,20240428.pdf,91,"一年内到期的非流动负债 七、43 2,589,772,135.66 669,299,149.04",source_numeric,2
+2023,2023,current,BS,current_liabilities,流动负债合计,37552900007.92,CNY,consolidated,20240428.pdf,91,"流动负债合计 37,552,900,007.92 28,357,071,907.82",source_numeric,1
+2023,2022,comparative,BS,current_liabilities,流动负债合计,28357071907.82,CNY,consolidated,20240428.pdf,91,"流动负债合计 37,552,900,007.92 28,357,071,907.82",source_numeric,2
+2023,2023,current,BS,long_loans,长期借款,11480062600.75,CNY,consolidated,20240428.pdf,91,"长期借款 七、45 11,480,062,600.75 5,256,600,986.02",source_numeric,1
+2023,2022,comparative,BS,long_loans,长期借款,5256600986.02,CNY,consolidated,20240428.pdf,91,"长期借款 七、45 11,480,062,600.75 5,256,600,986.02",source_numeric,2
+2023,2023,current,BS,bonds,应付债券,,CNY,consolidated,20240428.pdf,91,"应付债券 七、46 1,382,153,025.30",source_blank_not_zero,1
+2023,2022,comparative,BS,bonds,应付债券,1382153025.30,CNY,consolidated,20240428.pdf,91,"应付债券 七、46 1,382,153,025.30",source_numeric,2
+2023,2023,current,BS,lease_liabilities,租赁负债,280595145.69,CNY,consolidated,20240428.pdf,91,"租赁负债 七、47 280,595,145.69 61,257,922.26",source_numeric,1
+2023,2022,comparative,BS,lease_liabilities,租赁负债,61257922.26,CNY,consolidated,20240428.pdf,91,"租赁负债 七、47 280,595,145.69 61,257,922.26",source_numeric,2
+2023,2023,current,BS,total_liabilities,负债合计,55406439692.50,CNY,consolidated,20240428.pdf,92,"负债合计 55,406,439,692.50 40,577,920,603.28",source_numeric,1
+2023,2022,comparative,BS,total_liabilities,负债合计,40577920603.28,CNY,consolidated,20240428.pdf,92,"负债合计 55,406,439,692.50 40,577,920,603.28",source_numeric,2
+2023,2023,current,BS,parent_equity,归属于母公司所有者权益,27422713697.82,CNY,consolidated,20240428.pdf,92,"归属于母公司所有者权益（或股东 | 27,422,713,697.82 28,111,246,388.41",source_numeric,1
+2023,2022,comparative,BS,parent_equity,归属于母公司所有者权益,28111246388.41,CNY,consolidated,20240428.pdf,92,"归属于母公司所有者权益（或股东 | 27,422,713,697.82 28,111,246,388.41",source_numeric,2
+2023,2023,current,BS,minority_equity,少数股东权益,1032102474.43,CNY,consolidated,20240428.pdf,92,"少数股东权益 1,032,102,474.43 251,644,449.15",source_numeric,1
+2023,2022,comparative,BS,minority_equity,少数股东权益,251644449.15,CNY,consolidated,20240428.pdf,92,"少数股东权益 1,032,102,474.43 251,644,449.15",source_numeric,2
+2023,2023,current,BS,total_equity,所有者权益（或股东权益）合计,28454816172.25,CNY,consolidated,20240428.pdf,92,"所有者权益（或股东权益）合计 28,454,816,172.25 28,362,890,837.56",source_numeric,1
+2023,2022,comparative,BS,total_equity,所有者权益（或股东权益）合计,28362890837.56,CNY,consolidated,20240428.pdf,92,"所有者权益（或股东权益）合计 28,454,816,172.25 28,362,890,837.56",source_numeric,2
+2023,2023,current,IS,revenue,其中：营业收入,27859076459.80,CNY,consolidated,20240428.pdf,94,"其中：营业收入 七、61 27,859,076,459.80 30,747,775,048.56",source_numeric,1
+2023,2022,comparative,IS,revenue,其中：营业收入,30747775048.56,CNY,consolidated,20240428.pdf,94,"其中：营业收入 七、61 27,859,076,459.80 30,747,775,048.56",source_numeric,2
+2023,2023,current,IS,cost,其中：营业成本,24739445812.85,CNY,consolidated,20240428.pdf,94,"其中：营业成本 七、61 24,739,445,812.85 24,602,019,557.51",source_numeric,1
+2023,2022,comparative,IS,cost,其中：营业成本,24602019557.51,CNY,consolidated,20240428.pdf,94,"其中：营业成本 七、61 24,739,445,812.85 24,602,019,557.51",source_numeric,2
+2023,2023,current,IS,operating_profit,营业利润（,375914790.22,CNY,consolidated,20240428.pdf,95,"三、营业利润（亏损以“－”号填列） 375,914,790.22 3,864,929,429.56",source_numeric,1
+2023,2022,comparative,IS,operating_profit,营业利润（,3864929429.56,CNY,consolidated,20240428.pdf,95,"三、营业利润（亏损以“－”号填列） 375,914,790.22 3,864,929,429.56",source_numeric,2
+2023,2023,current,IS,profit_before_tax,利润总额（,354653481.20,CNY,consolidated,20240428.pdf,95,"四、利润总额（亏损总额以“－”号填列） 354,653,481.20 3,857,966,700.07",source_numeric,1
+2023,2022,comparative,IS,profit_before_tax,利润总额（,3857966700.07,CNY,consolidated,20240428.pdf,95,"四、利润总额（亏损总额以“－”号填列） 354,653,481.20 3,857,966,700.07",source_numeric,2
+2023,2023,current,IS,net_profit,净利润（,380142978.55,CNY,consolidated,20240428.pdf,95,"五、净利润（净亏损以“－”号填列） 380,142,978.55 3,439,322,380.01",source_numeric,1
+2023,2022,comparative,IS,net_profit,净利润（,3439322380.01,CNY,consolidated,20240428.pdf,95,"五、净利润（净亏损以“－”号填列） 380,142,978.55 3,439,322,380.01",source_numeric,2
+2023,2023,current,IS,parent_profit,归属于母公司股东的净利润,372451216.45,CNY,consolidated,20240428.pdf,95,"1.归属于母公司股东的净利润（净亏 | 372,451,216.45 3,444,710,792.65",source_numeric,1
+2023,2022,comparative,IS,parent_profit,归属于母公司股东的净利润,3444710792.65,CNY,consolidated,20240428.pdf,95,"1.归属于母公司股东的净利润（净亏 | 372,451,216.45 3,444,710,792.65",source_numeric,2
+2023,2023,current,IS,research_expense,研发费用,584996788.57,CNY,consolidated,20240428.pdf,94,"研发费用 七、65 584,996,788.57 843,785,630.94",source_numeric,1
+2023,2022,comparative,IS,research_expense,研发费用,843785630.94,CNY,consolidated,20240428.pdf,94,"研发费用 七、65 584,996,788.57 843,785,630.94",source_numeric,2
+2023,2023,current,IS,finance_expense,财务费用,93159049.99,CNY,consolidated,20240428.pdf,94,"财务费用 七、66 93,159,049.99 -47,588,202.30",source_numeric,1
+2023,2022,comparative,IS,finance_expense,财务费用,-47588202.30,CNY,consolidated,20240428.pdf,94,"财务费用 七、66 93,159,049.99 -47,588,202.30",source_numeric,2
+2023,2023,current,IS,interest_expense,其中：利息费用,353122411.25,CNY,consolidated,20240428.pdf,94,"其中：利息费用 353,122,411.25 303,975,920.24",source_numeric,1
+2023,2022,comparative,IS,interest_expense,其中：利息费用,303975920.24,CNY,consolidated,20240428.pdf,94,"其中：利息费用 353,122,411.25 303,975,920.24",source_numeric,2
+2023,2023,current,IS,impairment,资产减值损失,-179357054.70,CNY,consolidated,20240428.pdf,95,"资产减值损失（损失以“-”号填列） 七、72 -179,357,054.70 -182,825,915.35",source_numeric,1
+2023,2022,comparative,IS,impairment,资产减值损失,-182825915.35,CNY,consolidated,20240428.pdf,95,"资产减值损失（损失以“-”号填列） 七、72 -179,357,054.70 -182,825,915.35",source_numeric,2
+2023,2023,current,IS,credit_impairment,信用减值损失,-513819467.25,CNY,consolidated,20240428.pdf,95,"信用减值损失（损失以“-”号填列） 七、71 -513,819,467.25 -236,954,218.33",source_numeric,1
+2023,2022,comparative,IS,credit_impairment,信用减值损失,-236954218.33,CNY,consolidated,20240428.pdf,95,"信用减值损失（损失以“-”号填列） 七、71 -513,819,467.25 -236,954,218.33",source_numeric,2
+2023,2023,current,CF,sales_cash,销售商品、提供劳务收到的现,24633731206.24,CNY,consolidated,20240428.pdf,97,"销售商品、提供劳务收到的现金 24,633,731,206.24 23,447,945,107.13",source_numeric,1
+2023,2022,comparative,CF,sales_cash,销售商品、提供劳务收到的现,23447945107.13,CNY,consolidated,20240428.pdf,97,"销售商品、提供劳务收到的现金 24,633,731,206.24 23,447,945,107.13",source_numeric,2
+2023,2023,current,CF,tax_refunds,收到的税费返还,272171263.91,CNY,consolidated,20240428.pdf,97,"收到的税费返还 272,171,263.91 499,775,250.65",source_numeric,1
+2023,2022,comparative,CF,tax_refunds,收到的税费返还,499775250.65,CNY,consolidated,20240428.pdf,97,"收到的税费返还 272,171,263.91 499,775,250.65",source_numeric,2
+2023,2023,current,CF,operating_in,经营活动现金流入小计,26385039471.22,CNY,consolidated,20240428.pdf,97,"经营活动现金流入小计 26,385,039,471.22 24,846,691,364.72",source_numeric,1
+2023,2022,comparative,CF,operating_in,经营活动现金流入小计,24846691364.72,CNY,consolidated,20240428.pdf,97,"经营活动现金流入小计 26,385,039,471.22 24,846,691,364.72",source_numeric,2
+2023,2023,current,CF,purchase_cash,购买商品、接受劳务支付的现,24087034495.88,CNY,consolidated,20240428.pdf,97,"购买商品、接受劳务支付的现金 24,087,034,495.88 20,425,556,780.51",source_numeric,1
+2023,2022,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,20425556780.51,CNY,consolidated,20240428.pdf,97,"购买商品、接受劳务支付的现金 24,087,034,495.88 20,425,556,780.51",source_numeric,2
+2023,2023,current,CF,employee_cash,支付给职工,2026092765.23,CNY,consolidated,20240428.pdf,97,"支付给职工及为职工支付的现金 2,026,092,765.23 1,709,155,124.98",source_numeric,1
+2023,2022,comparative,CF,employee_cash,支付给职工,1709155124.98,CNY,consolidated,20240428.pdf,97,"支付给职工及为职工支付的现金 2,026,092,765.23 1,709,155,124.98",source_numeric,2
+2023,2023,current,CF,tax_paid,支付的各项税费,1017897736.40,CNY,consolidated,20240428.pdf,97,"支付的各项税费 1,017,897,736.40 1,712,718,384.23",source_numeric,1
+2023,2022,comparative,CF,tax_paid,支付的各项税费,1712718384.23,CNY,consolidated,20240428.pdf,97,"支付的各项税费 1,017,897,736.40 1,712,718,384.23",source_numeric,2
+2023,2023,current,CF,operating_out,经营活动现金流出小计,28976588741.92,CNY,consolidated,20240428.pdf,97,"经营活动现金流出小计 28,976,588,741.92 25,642,589,308.55",source_numeric,1
+2023,2022,comparative,CF,operating_out,经营活动现金流出小计,25642589308.55,CNY,consolidated,20240428.pdf,97,"经营活动现金流出小计 28,976,588,741.92 25,642,589,308.55",source_numeric,2
+2023,2023,current,CF,cfo,经营活动产生的现金流量净额,-2591549270.70,CNY,consolidated,20240428.pdf,98,"经营活动产生的现金流量净额 -2,591,549,270.70 -795,897,943.83",source_numeric,1
+2023,2022,comparative,CF,cfo,经营活动产生的现金流量净额,-795897943.83,CNY,consolidated,20240428.pdf,98,"经营活动产生的现金流量净额 -2,591,549,270.70 -795,897,943.83",source_numeric,2
+2023,2023,current,CF,capex,购建固定资产、无形资产和其他长期资,7610557148.10,CNY,consolidated,20240428.pdf,98,"购建固定资产、无形资产和其他长期资 | 7,610,557,148.10 8,009,114,388.48",source_numeric,1
+2023,2022,comparative,CF,capex,购建固定资产、无形资产和其他长期资,8009114388.48,CNY,consolidated,20240428.pdf,98,"购建固定资产、无形资产和其他长期资 | 7,610,557,148.10 8,009,114,388.48",source_numeric,2
+2023,2023,current,CF,cfi,投资活动产生的现金流量净额,-6131863067.97,CNY,consolidated,20240428.pdf,98,"投资活动产生的现金流量净额 -6,131,863,067.97 -9,950,135,821.99",source_numeric,1
+2023,2022,comparative,CF,cfi,投资活动产生的现金流量净额,-9950135821.99,CNY,consolidated,20240428.pdf,98,"投资活动产生的现金流量净额 -6,131,863,067.97 -9,950,135,821.99",source_numeric,2
+2023,2023,current,CF,cff,筹资活动产生的现金流量净额,10127282182.39,CNY,consolidated,20240428.pdf,98,"筹资活动产生的现金流量净额 10,127,282,182.39 7,817,254,538.57",source_numeric,1
+2023,2022,comparative,CF,cff,筹资活动产生的现金流量净额,7817254538.57,CNY,consolidated,20240428.pdf,98,"筹资活动产生的现金流量净额 10,127,282,182.39 7,817,254,538.57",source_numeric,2
+2023,2023,current,CF,cash_begin,加：期初现金及现金等价物余额,10530081360.65,CNY,consolidated,20240428.pdf,98,"加：期初现金及现金等价物余额 10,530,081,360.65 13,105,847,068.63",source_numeric,1
+2023,2022,comparative,CF,cash_begin,加：期初现金及现金等价物余额,13105847068.63,CNY,consolidated,20240428.pdf,98,"加：期初现金及现金等价物余额 10,530,081,360.65 13,105,847,068.63",source_numeric,2
+2023,2023,current,CF,cash_end,期末现金及现金等价物余额,12011122871.61,CNY,consolidated,20240428.pdf,98,"六、期末现金及现金等价物余额 12,011,122,871.61 10,530,081,360.65",source_numeric,1
+2023,2022,comparative,CF,cash_end,期末现金及现金等价物余额,10530081360.65,CNY,consolidated,20240428.pdf,98,"六、期末现金及现金等价物余额 12,011,122,871.61 10,530,081,360.65",source_numeric,2
+2024,2024,current,BS,cash,货币资金,14583771022.88,CNY,consolidated,20250425.pdf,94,"货币资金 七、1 14,583,771,022.88 13,044,532,972.09",source_numeric,1
+2024,2023,comparative,BS,cash,货币资金,13044532972.09,CNY,consolidated,20250425.pdf,94,"货币资金 七、1 14,583,771,022.88 13,044,532,972.09",source_numeric,2
+2024,2024,current,BS,bills_receivable,应收票据,33580281.79,CNY,consolidated,20250425.pdf,94,"应收票据 七、4 33,580,281.79 14,141,343.55",source_numeric,1
+2024,2023,comparative,BS,bills_receivable,应收票据,14141343.55,CNY,consolidated,20250425.pdf,94,"应收票据 七、4 33,580,281.79 14,141,343.55",source_numeric,2
+2024,2024,current,BS,receivables,应收账款,13776923643.11,CNY,consolidated,20250425.pdf,94,"应收账款 七、5 13,776,923,643.11 14,140,503,206.22",source_numeric,1
+2024,2023,comparative,BS,receivables,应收账款,14140503206.22,CNY,consolidated,20250425.pdf,94,"应收账款 七、5 13,776,923,643.11 14,140,503,206.22",source_numeric,2
+2024,2024,current,BS,receivables_financing,应收款项融资,964286203.65,CNY,consolidated,20250425.pdf,94,"应收款项融资 七、7 964,286,203.65 786,989,059.96",source_numeric,1
+2024,2023,comparative,BS,receivables_financing,应收款项融资,786989059.96,CNY,consolidated,20250425.pdf,94,"应收款项融资 七、7 964,286,203.65 786,989,059.96",source_numeric,2
+2024,2024,current,BS,prepayments,预付款项,716624965.91,CNY,consolidated,20250425.pdf,94,"预付款项 七、8 716,624,965.91 766,867,284.51",source_numeric,1
+2024,2023,comparative,BS,prepayments,预付款项,766867284.51,CNY,consolidated,20250425.pdf,94,"预付款项 七、8 716,624,965.91 766,867,284.51",source_numeric,2
+2024,2024,current,BS,inventory,存货,13537532115.73,CNY,consolidated,20250425.pdf,94,"存货 七、10 13,537,532,115.73 9,699,971,948.76",source_numeric,1
+2024,2023,comparative,BS,inventory,存货,9699971948.76,CNY,consolidated,20250425.pdf,94,"存货 七、10 13,537,532,115.73 9,699,971,948.76",source_numeric,2
+2024,2024,current,BS,contract_assets,合同资产,662942444.38,CNY,consolidated,20250425.pdf,94,"合同资产 七、6 662,942,444.38 809,011,938.98",source_numeric,1
+2024,2023,comparative,BS,contract_assets,合同资产,809011938.98,CNY,consolidated,20250425.pdf,94,"合同资产 七、6 662,942,444.38 809,011,938.98",source_numeric,2
+2024,2024,current,BS,current_assets,流动资产合计,50126086069.78,CNY,consolidated,20250425.pdf,94,"流动资产合计 50,126,086,069.78 43,727,605,418.56",source_numeric,1
+2024,2023,comparative,BS,current_assets,流动资产合计,43727605418.56,CNY,consolidated,20250425.pdf,94,"流动资产合计 50,126,086,069.78 43,727,605,418.56",source_numeric,2
+2024,2024,current,BS,fixed_assets,固定资产,14437903663.54,CNY,consolidated,20250425.pdf,95,"固定资产 七、21 14,437,903,663.54 13,430,638,520.55",source_numeric,1
+2024,2023,comparative,BS,fixed_assets,固定资产,13430638520.55,CNY,consolidated,20250425.pdf,95,"固定资产 七、21 14,437,903,663.54 13,430,638,520.55",source_numeric,2
+2024,2024,current,BS,construction,在建工程,4988640821.26,CNY,consolidated,20250425.pdf,95,"在建工程 七、22 4,988,640,821.26 8,777,325,916.28",source_numeric,1
+2024,2023,comparative,BS,construction,在建工程,8777325916.28,CNY,consolidated,20250425.pdf,95,"在建工程 七、22 4,988,640,821.26 8,777,325,916.28",source_numeric,2
+2024,2024,current,BS,intangibles,无形资产,2482930280.67,CNY,consolidated,20250425.pdf,95,"无形资产 七、26 2,482,930,280.67 2,049,977,053.75",source_numeric,1
+2024,2023,comparative,BS,intangibles,无形资产,2049977053.75,CNY,consolidated,20250425.pdf,95,"无形资产 七、26 2,482,930,280.67 2,049,977,053.75",source_numeric,2
+2024,2024,current,BS,development_costs,开发支出,227008615.55,CNY,consolidated,20250425.pdf,95,"开发支出 八 227,008,615.55 240,544,900.89",source_numeric,1
+2024,2023,comparative,BS,development_costs,开发支出,240544900.89,CNY,consolidated,20250425.pdf,95,"开发支出 八 227,008,615.55 240,544,900.89",source_numeric,2
+2024,2024,current,BS,total_assets,资产总计,86794501247.32,CNY,consolidated,20250425.pdf,95,"资产总计 86,794,501,247.32 84,246,306,841.71",source_numeric,1
+2024,2023,comparative,BS,total_assets,资产总计,84246306841.71,CNY,consolidated,20250425.pdf,95,"资产总计 86,794,501,247.32 84,246,306,841.71",source_numeric,2
+2024,2024,current,BS,short_loans,短期借款,1576852627.32,CNY,consolidated,20250425.pdf,95,"短期借款 七、32 1,576,852,627.32 880,955,954.28",source_numeric,1
+2024,2023,comparative,BS,short_loans,短期借款,880955954.28,CNY,consolidated,20250425.pdf,95,"短期借款 七、32 1,576,852,627.32 880,955,954.28",source_numeric,2
+2024,2024,current,BS,bills_payable,应付票据,9517195130.76,CNY,consolidated,20250425.pdf,95,"应付票据 七、35 9,517,195,130.76 11,434,390,544.40",source_numeric,1
+2024,2023,comparative,BS,bills_payable,应付票据,11434390544.40,CNY,consolidated,20250425.pdf,95,"应付票据 七、35 9,517,195,130.76 11,434,390,544.40",source_numeric,2
+2024,2024,current,BS,payables,应付账款,13016725356.61,CNY,consolidated,20250425.pdf,95,"应付账款 七、36 13,016,725,356.61 11,243,948,885.15",source_numeric,1
+2024,2023,comparative,BS,payables,应付账款,11243948885.15,CNY,consolidated,20250425.pdf,95,"应付账款 七、36 13,016,725,356.61 11,243,948,885.15",source_numeric,2
+2024,2024,current,BS,advance_receipts,预收款项,1400516.31,CNY,consolidated,20250425.pdf,95,"预收款项 七、37 1,400,516.31",source_numeric,1
+2024,2023,comparative,BS,advance_receipts,预收款项,,CNY,consolidated,20250425.pdf,95,"预收款项 七、37 1,400,516.31",source_blank_not_zero,2
+2024,2024,current,BS,contract_liabilities,合同负债,9289672830.58,CNY,consolidated,20250425.pdf,95,"合同负债 七、38 9,289,672,830.58 7,648,527,539.39",source_numeric,1
+2024,2023,comparative,BS,contract_liabilities,合同负债,7648527539.39,CNY,consolidated,20250425.pdf,95,"合同负债 七、38 9,289,672,830.58 7,648,527,539.39",source_numeric,2
+2024,2024,current,BS,current_debt_maturities,一年内到期的非流动负债,1628453578.61,CNY,consolidated,20250425.pdf,95,"一年内到期的非流动负债 七、43 1,628,453,578.61 2,589,890,019.92",source_numeric,1
+2024,2023,comparative,BS,current_debt_maturities,一年内到期的非流动负债,2589890019.92,CNY,consolidated,20250425.pdf,95,"一年内到期的非流动负债 七、43 1,628,453,578.61 2,589,890,019.92",source_numeric,2
+2024,2024,current,BS,current_liabilities,流动负债合计,39137564770.98,CNY,consolidated,20250425.pdf,96,"流动负债合计 39,137,564,770.98 37,816,659,696.14",source_numeric,1
+2024,2023,comparative,BS,current_liabilities,流动负债合计,37816659696.14,CNY,consolidated,20250425.pdf,96,"流动负债合计 39,137,564,770.98 37,816,659,696.14",source_numeric,2
+2024,2024,current,BS,long_loans,长期借款,13941868567.24,CNY,consolidated,20250425.pdf,96,"长期借款 七、45 13,941,868,567.24 11,480,062,600.75",source_numeric,1
+2024,2023,comparative,BS,long_loans,长期借款,11480062600.75,CNY,consolidated,20250425.pdf,96,"长期借款 七、45 13,941,868,567.24 11,480,062,600.75",source_numeric,2
+2024,2024,current,BS,bonds,应付债券,,CNY,consolidated,20250425.pdf,96,应付债券 七、46,source_blank_not_zero,1
+2024,2023,comparative,BS,bonds,应付债券,,CNY,consolidated,20250425.pdf,96,应付债券 七、46,source_blank_not_zero,2
+2024,2024,current,BS,lease_liabilities,租赁负债,179232500.52,CNY,consolidated,20250425.pdf,96,"租赁负债 七、47 179,232,500.52 280,595,145.69",source_numeric,1
+2024,2023,comparative,BS,lease_liabilities,租赁负债,280595145.69,CNY,consolidated,20250425.pdf,96,"租赁负债 七、47 179,232,500.52 280,595,145.69",source_numeric,2
+2024,2024,current,BS,total_liabilities,负债合计,59531276055.20,CNY,consolidated,20250425.pdf,96,"负债合计 59,531,276,055.20 55,670,750,519.05",source_numeric,1
+2024,2023,comparative,BS,total_liabilities,负债合计,55670750519.05,CNY,consolidated,20250425.pdf,96,"负债合计 59,531,276,055.20 55,670,750,519.05",source_numeric,2
+2024,2024,current,BS,parent_equity,归属于母公司所有者权益,26237473763.09,CNY,consolidated,20250425.pdf,96,"归属于母公司所有者权益 | 26,237,473,763.09 27,533,641,651.71",source_numeric,1
+2024,2023,comparative,BS,parent_equity,归属于母公司所有者权益,27533641651.71,CNY,consolidated,20250425.pdf,96,"归属于母公司所有者权益 | 26,237,473,763.09 27,533,641,651.71",source_numeric,2
+2024,2024,current,BS,minority_equity,少数股东权益,1025751429.03,CNY,consolidated,20250425.pdf,96,"少数股东权益 1,025,751,429.03 1,041,914,670.95",source_numeric,1
+2024,2023,comparative,BS,minority_equity,少数股东权益,1041914670.95,CNY,consolidated,20250425.pdf,96,"少数股东权益 1,025,751,429.03 1,041,914,670.95",source_numeric,2
+2024,2024,current,BS,total_equity,所有者权益（或股东权益）合计,27263225192.12,CNY,consolidated,20250425.pdf,96,"所有者权益（或股东权 | 27,263,225,192.12 28,575,556,322.66",source_numeric,1
+2024,2023,comparative,BS,total_equity,所有者权益（或股东权益）合计,28575556322.66,CNY,consolidated,20250425.pdf,96,"所有者权益（或股东权 | 27,263,225,192.12 28,575,556,322.66",source_numeric,2
+2024,2024,current,IS,revenue,其中：营业收入,27158316717.94,CNY,consolidated,20250425.pdf,98,"其中：营业收入 七、61 27,158,316,717.94 28,123,843,438.14",source_numeric,1
+2024,2023,comparative,IS,revenue,其中：营业收入,28123843438.14,CNY,consolidated,20250425.pdf,98,"其中：营业收入 七、61 27,158,316,717.94 28,123,843,438.14",source_numeric,2
+2024,2024,current,IS,cost,其中：营业成本,24959005553.54,CNY,consolidated,20250425.pdf,98,"其中：营业成本 七、61 24,959,005,553.54 25,748,464,894.75",source_numeric,1
+2024,2023,comparative,IS,cost,其中：营业成本,25748464894.75,CNY,consolidated,20250425.pdf,98,"其中：营业成本 七、61 24,959,005,553.54 25,748,464,894.75",source_numeric,2
+2024,2024,current,IS,operating_profit,营业利润（,451930951.76,CNY,consolidated,20250425.pdf,99,"三、营业利润（亏损以“－”号填列） 451,930,951.76 383,582,421.02",source_numeric,1
+2024,2023,comparative,IS,operating_profit,营业利润（,383582421.02,CNY,consolidated,20250425.pdf,99,"三、营业利润（亏损以“－”号填列） 451,930,951.76 383,582,421.02",source_numeric,2
+2024,2024,current,IS,profit_before_tax,利润总额（,414831599.80,CNY,consolidated,20250425.pdf,99,"四、利润总额（亏损总额以“－”号填列） 414,831,599.80 362,477,760.17",source_numeric,1
+2024,2023,comparative,IS,profit_before_tax,利润总额（,362477760.17,CNY,consolidated,20250425.pdf,99,"四、利润总额（亏损总额以“－”号填列） 414,831,599.80 362,477,760.17",source_numeric,2
+2024,2024,current,IS,net_profit,净利润（,371873897.83,CNY,consolidated,20250425.pdf,99,"五、净利润（净亏损以“－”号填列） 371,873,897.83 386,923,516.89",source_numeric,1
+2024,2023,comparative,IS,net_profit,净利润（,386923516.89,CNY,consolidated,20250425.pdf,99,"五、净利润（净亏损以“－”号填列） 371,873,897.83 386,923,516.89",source_numeric,2
+2024,2024,current,IS,parent_profit,归属于母公司股东的净利润,346114493.48,CNY,consolidated,20250425.pdf,99,"1.归属于母公司股东的净利润（净亏损以 | 346,114,493.48 376,722,128.30",source_numeric,1
+2024,2023,comparative,IS,parent_profit,归属于母公司股东的净利润,376722128.30,CNY,consolidated,20250425.pdf,99,"1.归属于母公司股东的净利润（净亏损以 | 346,114,493.48 376,722,128.30",source_numeric,2
+2024,2024,current,IS,research_expense,研发费用,562581054.65,CNY,consolidated,20250425.pdf,99,"研发费用 七、65 562,581,054.65 604,366,959.60",source_numeric,1
+2024,2023,comparative,IS,research_expense,研发费用,604366959.60,CNY,consolidated,20250425.pdf,99,"研发费用 七、65 562,581,054.65 604,366,959.60",source_numeric,2
+2024,2024,current,IS,finance_expense,财务费用,342440213.42,CNY,consolidated,20250425.pdf,99,"财务费用 七、66 342,440,213.42 93,289,776.97",source_numeric,1
+2024,2023,comparative,IS,finance_expense,财务费用,93289776.97,CNY,consolidated,20250425.pdf,99,"财务费用 七、66 342,440,213.42 93,289,776.97",source_numeric,2
+2024,2024,current,IS,interest_expense,其中：利息费用,506261711.27,CNY,consolidated,20250425.pdf,99,"其中：利息费用 506,261,711.27 353,475,918.85",source_numeric,1
+2024,2023,comparative,IS,interest_expense,其中：利息费用,353475918.85,CNY,consolidated,20250425.pdf,99,"其中：利息费用 506,261,711.27 353,475,918.85",source_numeric,2
+2024,2024,current,IS,impairment,资产减值损失,-254983485.09,CNY,consolidated,20250425.pdf,99,"资产减值损失（损失以“-”号填列） 七、72 -254,983,485.09 -181,645,939.82",source_numeric,1
+2024,2023,comparative,IS,impairment,资产减值损失,-181645939.82,CNY,consolidated,20250425.pdf,99,"资产减值损失（损失以“-”号填列） 七、72 -254,983,485.09 -181,645,939.82",source_numeric,2
+2024,2024,current,IS,credit_impairment,信用减值损失,-288040043.79,CNY,consolidated,20250425.pdf,99,"信用减值损失（损失以“-”号填列） 七、71 -288,040,043.79 -510,155,338.00",source_numeric,1
+2024,2023,comparative,IS,credit_impairment,信用减值损失,-510155338.00,CNY,consolidated,20250425.pdf,99,"信用减值损失（损失以“-”号填列） 七、71 -288,040,043.79 -510,155,338.00",source_numeric,2
+2024,2024,current,CF,sales_cash,销售商品、提供劳务收到的现,28499452171.18,CNY,consolidated,20250425.pdf,101,"销售商品、提供劳务收到的现金 28,499,452,171.18 24,843,471,844.04",source_numeric,1
+2024,2023,comparative,CF,sales_cash,销售商品、提供劳务收到的现,24843471844.04,CNY,consolidated,20250425.pdf,101,"销售商品、提供劳务收到的现金 28,499,452,171.18 24,843,471,844.04",source_numeric,2
+2024,2024,current,CF,tax_refunds,收到的税费返还,228726425.99,CNY,consolidated,20250425.pdf,101,"收到的税费返还 228,726,425.99 272,358,394.06",source_numeric,1
+2024,2023,comparative,CF,tax_refunds,收到的税费返还,272358394.06,CNY,consolidated,20250425.pdf,101,"收到的税费返还 228,726,425.99 272,358,394.06",source_numeric,2
+2024,2024,current,CF,operating_in,经营活动现金流入小计,29562428585.94,CNY,consolidated,20250425.pdf,101,"经营活动现金流入小计 29,562,428,585.94 26,633,442,141.83",source_numeric,1
+2024,2023,comparative,CF,operating_in,经营活动现金流入小计,26633442141.83,CNY,consolidated,20250425.pdf,101,"经营活动现金流入小计 29,562,428,585.94 26,633,442,141.83",source_numeric,2
+2024,2024,current,CF,purchase_cash,购买商品、接受劳务支付的现,26385745177.63,CNY,consolidated,20250425.pdf,101,"购买商品、接受劳务支付的现金 26,385,745,177.63 24,243,238,747.74",source_numeric,1
+2024,2023,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,24243238747.74,CNY,consolidated,20250425.pdf,101,"购买商品、接受劳务支付的现金 26,385,745,177.63 24,243,238,747.74",source_numeric,2
+2024,2024,current,CF,employee_cash,支付给职工,2430469935.11,CNY,consolidated,20250425.pdf,102,"支付给职工及为职工支付的现金 2,430,469,935.11 2,054,200,766.50",source_numeric,1
+2024,2023,comparative,CF,employee_cash,支付给职工,2054200766.50,CNY,consolidated,20250425.pdf,102,"支付给职工及为职工支付的现金 2,430,469,935.11 2,054,200,766.50",source_numeric,2
+2024,2024,current,CF,tax_paid,支付的各项税费,1248073622.03,CNY,consolidated,20250425.pdf,102,"支付的各项税费 1,248,073,622.03 1,032,823,939.80",source_numeric,1
+2024,2023,comparative,CF,tax_paid,支付的各项税费,1032823939.80,CNY,consolidated,20250425.pdf,102,"支付的各项税费 1,248,073,622.03 1,032,823,939.80",source_numeric,2
+2024,2024,current,CF,operating_out,经营活动现金流出小计,31965595407.78,CNY,consolidated,20250425.pdf,102,"经营活动现金流出小计 31,965,595,407.78 29,223,710,113.76",source_numeric,1
+2024,2023,comparative,CF,operating_out,经营活动现金流出小计,29223710113.76,CNY,consolidated,20250425.pdf,102,"经营活动现金流出小计 31,965,595,407.78 29,223,710,113.76",source_numeric,2
+2024,2024,current,CF,cfo,经营活动产生的现金流量净额,-2403166821.84,CNY,consolidated,20250425.pdf,102,"经营活动产生的现金流量净额 -2,403,166,821.84 -2,590,267,971.93",source_numeric,1
+2024,2023,comparative,CF,cfo,经营活动产生的现金流量净额,-2590267971.93,CNY,consolidated,20250425.pdf,102,"经营活动产生的现金流量净额 -2,403,166,821.84 -2,590,267,971.93",source_numeric,2
+2024,2024,current,CF,capex,购建固定资产、无形资产和其他长期资,5647153839.85,CNY,consolidated,20250425.pdf,102,"购建固定资产、无形资产和其他长期资产 | 5,647,153,839.85 7,612,448,666.72",source_numeric,1
+2024,2023,comparative,CF,capex,购建固定资产、无形资产和其他长期资,7612448666.72,CNY,consolidated,20250425.pdf,102,"购建固定资产、无形资产和其他长期资产 | 5,647,153,839.85 7,612,448,666.72",source_numeric,2
+2024,2024,current,CF,cfi,投资活动产生的现金流量净额,-2055289312.22,CNY,consolidated,20250425.pdf,102,"投资活动产生的现金流量净额 -2,055,289,312.22 -6,183,754,586.59",source_numeric,1
+2024,2023,comparative,CF,cfi,投资活动产生的现金流量净额,-6183754586.59,CNY,consolidated,20250425.pdf,102,"投资活动产生的现金流量净额 -2,055,289,312.22 -6,183,754,586.59",source_numeric,2
+2024,2024,current,CF,cff,筹资活动产生的现金流量净额,6559859516.52,CNY,consolidated,20250425.pdf,102,"筹资活动产生的现金流量净额 6,559,859,516.52 10,186,964,125.93",source_numeric,1
+2024,2023,comparative,CF,cff,筹资活动产生的现金流量净额,10186964125.93,CNY,consolidated,20250425.pdf,102,"筹资活动产生的现金流量净额 6,559,859,516.52 10,186,964,125.93",source_numeric,2
+2024,2024,current,CF,cash_begin,加：期初现金及现金等价物余额,12071044966.34,CNY,consolidated,20250425.pdf,102,"加：期初现金及现金等价物余额 12,071,044,966.34 10,580,570,401.02",source_numeric,1
+2024,2023,comparative,CF,cash_begin,加：期初现金及现金等价物余额,10580570401.02,CNY,consolidated,20250425.pdf,102,"加：期初现金及现金等价物余额 12,071,044,966.34 10,580,570,401.02",source_numeric,2
+2024,2024,current,CF,cash_end,期末现金及现金等价物余额,14217771011.92,CNY,consolidated,20250425.pdf,102,"六、期末现金及现金等价物余额 14,217,771,011.92 12,071,044,966.34",source_numeric,1
+2024,2023,comparative,CF,cash_end,期末现金及现金等价物余额,12071044966.34,CNY,consolidated,20250425.pdf,102,"六、期末现金及现金等价物余额 14,217,771,011.92 12,071,044,966.34",source_numeric,2
+2025,2025,current,BS,cash,货币资金,10648946857.19,CNY,consolidated,20260428.pdf,97,"货币资金 七、1 10,648,946,857.19 14,583,771,022.88",source_numeric,1
+2025,2024,comparative,BS,cash,货币资金,14583771022.88,CNY,consolidated,20260428.pdf,97,"货币资金 七、1 10,648,946,857.19 14,583,771,022.88",source_numeric,2
+2025,2025,current,BS,bills_receivable,应收票据,190647713.05,CNY,consolidated,20260428.pdf,97,"应收票据 七、4 190,647,713.05 33,580,281.79",source_numeric,1
+2025,2024,comparative,BS,bills_receivable,应收票据,33580281.79,CNY,consolidated,20260428.pdf,97,"应收票据 七、4 190,647,713.05 33,580,281.79",source_numeric,2
+2025,2025,current,BS,receivables,应收账款,16836798034.54,CNY,consolidated,20260428.pdf,97,"应收账款 七、5 16,836,798,034.54 13,776,923,643.11",source_numeric,1
+2025,2024,comparative,BS,receivables,应收账款,13776923643.11,CNY,consolidated,20260428.pdf,97,"应收账款 七、5 16,836,798,034.54 13,776,923,643.11",source_numeric,2
+2025,2025,current,BS,receivables_financing,应收款项融资,955117792.00,CNY,consolidated,20260428.pdf,97,"应收款项融资 七、7 955,117,792.00 964,286,203.65",source_numeric,1
+2025,2024,comparative,BS,receivables_financing,应收款项融资,964286203.65,CNY,consolidated,20260428.pdf,97,"应收款项融资 七、7 955,117,792.00 964,286,203.65",source_numeric,2
+2025,2025,current,BS,prepayments,预付款项,868735535.04,CNY,consolidated,20260428.pdf,97,"预付款项 七、8 868,735,535.04 716,624,965.91",source_numeric,1
+2025,2024,comparative,BS,prepayments,预付款项,716624965.91,CNY,consolidated,20260428.pdf,97,"预付款项 七、8 868,735,535.04 716,624,965.91",source_numeric,2
+2025,2025,current,BS,inventory,存货,18221890055.29,CNY,consolidated,20260428.pdf,97,"存货 七、10 18,221,890,055.29 13,537,532,115.73",source_numeric,1
+2025,2024,comparative,BS,inventory,存货,13537532115.73,CNY,consolidated,20260428.pdf,97,"存货 七、10 18,221,890,055.29 13,537,532,115.73",source_numeric,2
+2025,2025,current,BS,contract_assets,合同资产,3155177189.75,CNY,consolidated,20260428.pdf,97,"合同资产 七、6 3,155,177,189.75 662,942,444.38",source_numeric,1
+2025,2024,comparative,BS,contract_assets,合同资产,662942444.38,CNY,consolidated,20260428.pdf,97,"合同资产 七、6 3,155,177,189.75 662,942,444.38",source_numeric,2
+2025,2025,current,BS,current_assets,流动资产合计,58339088234.04,CNY,consolidated,20260428.pdf,97,"流动资产合计 58,339,088,234.04 50,126,086,069.78",source_numeric,1
+2025,2024,comparative,BS,current_assets,流动资产合计,50126086069.78,CNY,consolidated,20260428.pdf,97,"流动资产合计 58,339,088,234.04 50,126,086,069.78",source_numeric,2
+2025,2025,current,BS,fixed_assets,固定资产,17159690346.86,CNY,consolidated,20260428.pdf,97,"固定资产 七、21 17,159,690,346.86 14,437,903,663.54",source_numeric,1
+2025,2024,comparative,BS,fixed_assets,固定资产,14437903663.54,CNY,consolidated,20260428.pdf,97,"固定资产 七、21 17,159,690,346.86 14,437,903,663.54",source_numeric,2
+2025,2025,current,BS,construction,在建工程,3145262251.94,CNY,consolidated,20260428.pdf,97,"在建工程 七、22 3,145,262,251.94 4,988,640,821.26",source_numeric,1
+2025,2024,comparative,BS,construction,在建工程,4988640821.26,CNY,consolidated,20260428.pdf,97,"在建工程 七、22 3,145,262,251.94 4,988,640,821.26",source_numeric,2
+2025,2025,current,BS,intangibles,无形资产,2483695747.78,CNY,consolidated,20260428.pdf,97,"无形资产 七、26 2,483,695,747.78 2,482,930,280.67",source_numeric,1
+2025,2024,comparative,BS,intangibles,无形资产,2482930280.67,CNY,consolidated,20260428.pdf,97,"无形资产 七、26 2,483,695,747.78 2,482,930,280.67",source_numeric,2
+2025,2025,current,BS,development_costs,开发支出,463495207.27,CNY,consolidated,20260428.pdf,97,"开发支出 八 463,495,207.27 227,008,615.55",source_numeric,1
+2025,2024,comparative,BS,development_costs,开发支出,227008615.55,CNY,consolidated,20260428.pdf,97,"开发支出 八 463,495,207.27 227,008,615.55",source_numeric,2
+2025,2025,current,BS,total_assets,资产总计,96853624816.70,CNY,consolidated,20260428.pdf,98,"资产总计 96,853,624,816.70 86,794,501,247.32",source_numeric,1
+2025,2024,comparative,BS,total_assets,资产总计,86794501247.32,CNY,consolidated,20260428.pdf,98,"资产总计 96,853,624,816.70 86,794,501,247.32",source_numeric,2
+2025,2025,current,BS,short_loans,短期借款,3820287364.04,CNY,consolidated,20260428.pdf,98,"短期借款 七、32 3,820,287,364.04 1,576,852,627.32",source_numeric,1
+2025,2024,comparative,BS,short_loans,短期借款,1576852627.32,CNY,consolidated,20260428.pdf,98,"短期借款 七、32 3,820,287,364.04 1,576,852,627.32",source_numeric,2
+2025,2025,current,BS,bills_payable,应付票据,12329684746.90,CNY,consolidated,20260428.pdf,98,"应付票据 七、35 12,329,684,746.90 9,517,195,130.76",source_numeric,1
+2025,2024,comparative,BS,bills_payable,应付票据,9517195130.76,CNY,consolidated,20260428.pdf,98,"应付票据 七、35 12,329,684,746.90 9,517,195,130.76",source_numeric,2
+2025,2025,current,BS,payables,应付账款,17901665179.25,CNY,consolidated,20260428.pdf,98,"应付账款 七、36 17,901,665,179.25 13,016,725,356.61",source_numeric,1
+2025,2024,comparative,BS,payables,应付账款,13016725356.61,CNY,consolidated,20260428.pdf,98,"应付账款 七、36 17,901,665,179.25 13,016,725,356.61",source_numeric,2
+2025,2025,current,BS,advance_receipts,预收款项,1307152.51,CNY,consolidated,20260428.pdf,98,"预收款项 七、37 1,307,152.51 1,400,516.31",source_numeric,1
+2025,2024,comparative,BS,advance_receipts,预收款项,1400516.31,CNY,consolidated,20260428.pdf,98,"预收款项 七、37 1,307,152.51 1,400,516.31",source_numeric,2
+2025,2025,current,BS,contract_liabilities,合同负债,9266416106.99,CNY,consolidated,20260428.pdf,98,"合同负债 七、38 9,266,416,106.99 9,289,672,830.58",source_numeric,1
+2025,2024,comparative,BS,contract_liabilities,合同负债,9289672830.58,CNY,consolidated,20260428.pdf,98,"合同负债 七、38 9,266,416,106.99 9,289,672,830.58",source_numeric,2
+2025,2025,current,BS,current_debt_maturities,一年内到期的非流动负债,2204909107.88,CNY,consolidated,20260428.pdf,98,"一年内到期的非流动负债 七、43 2,204,909,107.88 1,628,453,578.61",source_numeric,1
+2025,2024,comparative,BS,current_debt_maturities,一年内到期的非流动负债,1628453578.61,CNY,consolidated,20260428.pdf,98,"一年内到期的非流动负债 七、43 2,204,909,107.88 1,628,453,578.61",source_numeric,2
+2025,2025,current,BS,current_liabilities,流动负债合计,50579711306.71,CNY,consolidated,20260428.pdf,98,"流动负债合计 50,579,711,306.71 39,137,564,770.98",source_numeric,1
+2025,2024,comparative,BS,current_liabilities,流动负债合计,39137564770.98,CNY,consolidated,20260428.pdf,98,"流动负债合计 50,579,711,306.71 39,137,564,770.98",source_numeric,2
+2025,2025,current,BS,long_loans,长期借款,13582676284.43,CNY,consolidated,20260428.pdf,98,"长期借款 七、45 13,582,676,284.43 13,941,868,567.24",source_numeric,1
+2025,2024,comparative,BS,long_loans,长期借款,13941868567.24,CNY,consolidated,20260428.pdf,98,"长期借款 七、45 13,582,676,284.43 13,941,868,567.24",source_numeric,2
+2025,2025,current,BS,bonds,应付债券,,CNY,consolidated,20260428.pdf,98,应付债券 七、46,source_blank_not_zero,1
+2025,2024,comparative,BS,bonds,应付债券,,CNY,consolidated,20260428.pdf,98,应付债券 七、46,source_blank_not_zero,2
+2025,2025,current,BS,lease_liabilities,租赁负债,267328810.06,CNY,consolidated,20260428.pdf,98,"租赁负债 七、47 267,328,810.06 179,232,500.52",source_numeric,1
+2025,2024,comparative,BS,lease_liabilities,租赁负债,179232500.52,CNY,consolidated,20260428.pdf,98,"租赁负债 七、47 267,328,810.06 179,232,500.52",source_numeric,2
+2025,2025,current,BS,total_liabilities,负债合计,69455087766.75,CNY,consolidated,20260428.pdf,98,"负债合计 69,455,087,766.75 59,531,276,055.20",source_numeric,1
+2025,2024,comparative,BS,total_liabilities,负债合计,59531276055.20,CNY,consolidated,20260428.pdf,98,"负债合计 69,455,087,766.75 59,531,276,055.20",source_numeric,2
+2025,2025,current,BS,parent_equity,归属于母公司所有者权益,26317003412.97,CNY,consolidated,20260428.pdf,99,"归属于母公司所有者权益 | 26,317,003,412.97 26,237,473,763.09",source_numeric,1
+2025,2024,comparative,BS,parent_equity,归属于母公司所有者权益,26237473763.09,CNY,consolidated,20260428.pdf,99,"归属于母公司所有者权益 | 26,317,003,412.97 26,237,473,763.09",source_numeric,2
+2025,2025,current,BS,minority_equity,少数股东权益,1081533636.98,CNY,consolidated,20260428.pdf,99,"少数股东权益 1,081,533,636.98 1,025,751,429.03",source_numeric,1
+2025,2024,comparative,BS,minority_equity,少数股东权益,1025751429.03,CNY,consolidated,20260428.pdf,99,"少数股东权益 1,081,533,636.98 1,025,751,429.03",source_numeric,2
+2025,2025,current,BS,total_equity,所有者权益（或股东权益）合计,27398537049.95,CNY,consolidated,20260428.pdf,99,"所有者权益（或股东权 | 27,398,537,049.95 27,263,225,192.12",source_numeric,1
+2025,2024,comparative,BS,total_equity,所有者权益（或股东权益）合计,27263225192.12,CNY,consolidated,20260428.pdf,99,"所有者权益（或股东权 | 27,398,537,049.95 27,263,225,192.12",source_numeric,2
+2025,2025,current,IS,revenue,其中：营业收入,38094969264.43,CNY,consolidated,20260428.pdf,101,"其中：营业收入 七、61 38,094,969,264.43 27,158,316,717.94",source_numeric,1
+2025,2024,comparative,IS,revenue,其中：营业收入,27158316717.94,CNY,consolidated,20260428.pdf,101,"其中：营业收入 七、61 38,094,969,264.43 27,158,316,717.94",source_numeric,2
+2025,2025,current,IS,cost,其中：营业成本,34162679962.26,CNY,consolidated,20260428.pdf,101,"其中：营业成本 七、61 34,162,679,962.26 24,959,005,553.54",source_numeric,1
+2025,2024,comparative,IS,cost,其中：营业成本,24959005553.54,CNY,consolidated,20260428.pdf,101,"其中：营业成本 七、61 34,162,679,962.26 24,959,005,553.54",source_numeric,2
+2025,2025,current,IS,operating_profit,营业利润（,716816073.10,CNY,consolidated,20260428.pdf,102,"三、营业利润（亏损以“－”号填列） 716,816,073.10 451,930,951.76",source_numeric,1
+2025,2024,comparative,IS,operating_profit,营业利润（,451930951.76,CNY,consolidated,20260428.pdf,102,"三、营业利润（亏损以“－”号填列） 716,816,073.10 451,930,951.76",source_numeric,2
+2025,2025,current,IS,profit_before_tax,利润总额（,636368238.53,CNY,consolidated,20260428.pdf,102,"四、利润总额（亏损总额以“－”号填 | 636,368,238.53 414,831,599.80",source_numeric,1
+2025,2024,comparative,IS,profit_before_tax,利润总额（,414831599.80,CNY,consolidated,20260428.pdf,102,"四、利润总额（亏损总额以“－”号填 | 636,368,238.53 414,831,599.80",source_numeric,2
+2025,2025,current,IS,net_profit,净利润（,697656674.91,CNY,consolidated,20260428.pdf,102,"五、净利润（净亏损以“－”号填列） 697,656,674.91 371,873,897.83",source_numeric,1
+2025,2024,comparative,IS,net_profit,净利润（,371873897.83,CNY,consolidated,20260428.pdf,102,"五、净利润（净亏损以“－”号填列） 697,656,674.91 371,873,897.83",source_numeric,2
+2025,2025,current,IS,parent_profit,归属于母公司股东的净利润,659873732.73,CNY,consolidated,20260428.pdf,102,"1.归属于母公司股东的净利润（净 | 659,873,732.73 346,114,493.48",source_numeric,1
+2025,2024,comparative,IS,parent_profit,归属于母公司股东的净利润,346114493.48,CNY,consolidated,20260428.pdf,102,"1.归属于母公司股东的净利润（净 | 659,873,732.73 346,114,493.48",source_numeric,2
+2025,2025,current,IS,research_expense,研发费用,769662794.44,CNY,consolidated,20260428.pdf,101,"研发费用 七、65 769,662,794.44 562,581,054.65",source_numeric,1
+2025,2024,comparative,IS,research_expense,研发费用,562581054.65,CNY,consolidated,20260428.pdf,101,"研发费用 七、65 769,662,794.44 562,581,054.65",source_numeric,2
+2025,2025,current,IS,finance_expense,财务费用,515530966.30,CNY,consolidated,20260428.pdf,101,"财务费用 七、66 515,530,966.30 342,440,213.42",source_numeric,1
+2025,2024,comparative,IS,finance_expense,财务费用,342440213.42,CNY,consolidated,20260428.pdf,101,"财务费用 七、66 515,530,966.30 342,440,213.42",source_numeric,2
+2025,2025,current,IS,interest_expense,其中：利息费用,532870833.96,CNY,consolidated,20260428.pdf,101,"其中：利息费用 532,870,833.96 506,261,711.27",source_numeric,1
+2025,2024,comparative,IS,interest_expense,其中：利息费用,506261711.27,CNY,consolidated,20260428.pdf,101,"其中：利息费用 532,870,833.96 506,261,711.27",source_numeric,2
+2025,2025,current,IS,impairment,资产减值损失,,CNY,consolidated,20260428.pdf,102,资产减值损失（损失以“-”号,source_blank_not_zero,1
+2025,2024,comparative,IS,impairment,资产减值损失,,CNY,consolidated,20260428.pdf,102,资产减值损失（损失以“-”号,source_blank_not_zero,2
+2025,2025,current,IS,credit_impairment,信用减值损失,,CNY,consolidated,20260428.pdf,102,信用减值损失（损失以“-”号,source_blank_not_zero,1
+2025,2024,comparative,IS,credit_impairment,信用减值损失,,CNY,consolidated,20260428.pdf,102,信用减值损失（损失以“-”号,source_blank_not_zero,2
+2025,2025,current,CF,sales_cash,销售商品、提供劳务收到的现,32297662094.25,CNY,consolidated,20260428.pdf,104,"销售商品、提供劳务收到的现金 32,297,662,094.25 28,499,452,171.18",source_numeric,1
+2025,2024,comparative,CF,sales_cash,销售商品、提供劳务收到的现,28499452171.18,CNY,consolidated,20260428.pdf,104,"销售商品、提供劳务收到的现金 32,297,662,094.25 28,499,452,171.18",source_numeric,2
+2025,2025,current,CF,tax_refunds,收到的税费返还,132639968.45,CNY,consolidated,20260428.pdf,104,"收到的税费返还 132,639,968.45 228,726,425.99",source_numeric,1
+2025,2024,comparative,CF,tax_refunds,收到的税费返还,228726425.99,CNY,consolidated,20260428.pdf,104,"收到的税费返还 132,639,968.45 228,726,425.99",source_numeric,2
+2025,2025,current,CF,operating_in,经营活动现金流入小计,33100630167.60,CNY,consolidated,20260428.pdf,104,"经营活动现金流入小计 33,100,630,167.60 29,562,428,585.94",source_numeric,1
+2025,2024,comparative,CF,operating_in,经营活动现金流入小计,29562428585.94,CNY,consolidated,20260428.pdf,104,"经营活动现金流入小计 33,100,630,167.60 29,562,428,585.94",source_numeric,2
+2025,2025,current,CF,purchase_cash,购买商品、接受劳务支付的现,31852510959.71,CNY,consolidated,20260428.pdf,104,"购买商品、接受劳务支付的现金 31,852,510,959.71 26,385,745,177.63",source_numeric,1
+2025,2024,comparative,CF,purchase_cash,购买商品、接受劳务支付的现,26385745177.63,CNY,consolidated,20260428.pdf,104,"购买商品、接受劳务支付的现金 31,852,510,959.71 26,385,745,177.63",source_numeric,2
+2025,2025,current,CF,employee_cash,支付给职工,3053215492.81,CNY,consolidated,20260428.pdf,105,"支付给职工及为职工支付的现金 3,053,215,492.81 2,430,469,935.11",source_numeric,1
+2025,2024,comparative,CF,employee_cash,支付给职工,2430469935.11,CNY,consolidated,20260428.pdf,105,"支付给职工及为职工支付的现金 3,053,215,492.81 2,430,469,935.11",source_numeric,2
+2025,2025,current,CF,tax_paid,支付的各项税费,1242340573.01,CNY,consolidated,20260428.pdf,105,"支付的各项税费 1,242,340,573.01 1,248,073,622.03",source_numeric,1
+2025,2024,comparative,CF,tax_paid,支付的各项税费,1248073622.03,CNY,consolidated,20260428.pdf,105,"支付的各项税费 1,242,340,573.01 1,248,073,622.03",source_numeric,2
+2025,2025,current,CF,operating_out,经营活动现金流出小计,38638702237.19,CNY,consolidated,20260428.pdf,105,"经营活动现金流出小计 38,638,702,237.19 31,965,595,407.78",source_numeric,1
+2025,2024,comparative,CF,operating_out,经营活动现金流出小计,31965595407.78,CNY,consolidated,20260428.pdf,105,"经营活动现金流出小计 38,638,702,237.19 31,965,595,407.78",source_numeric,2
+2025,2025,current,CF,cfo,经营活动产生的现金流量净额,-5538072069.59,CNY,consolidated,20260428.pdf,105,"经营活动产生的现金流量净额 七、79（1） -5,538,072,069.59 -2,403,166,821.84",source_numeric,1
+2025,2024,comparative,CF,cfo,经营活动产生的现金流量净额,-2403166821.84,CNY,consolidated,20260428.pdf,105,"经营活动产生的现金流量净额 七、79（1） -5,538,072,069.59 -2,403,166,821.84",source_numeric,2
+2025,2025,current,CF,capex,购建固定资产、无形资产和其他长期资,2537943842.92,CNY,consolidated,20260428.pdf,105,"购建固定资产、无形资产和其他长期资 | 2,537,943,842.92 5,647,153,839.85",source_numeric,1
+2025,2024,comparative,CF,capex,购建固定资产、无形资产和其他长期资,5647153839.85,CNY,consolidated,20260428.pdf,105,"购建固定资产、无形资产和其他长期资 | 2,537,943,842.92 5,647,153,839.85",source_numeric,2
+2025,2025,current,CF,cfi,投资活动产生的现金流量净额,-1885422746.80,CNY,consolidated,20260428.pdf,105,"投资活动产生的现金流量净额 -1,885,422,746.80 -2,055,289,312.22",source_numeric,1
+2025,2024,comparative,CF,cfi,投资活动产生的现金流量净额,-2055289312.22,CNY,consolidated,20260428.pdf,105,"投资活动产生的现金流量净额 -1,885,422,746.80 -2,055,289,312.22",source_numeric,2
+2025,2025,current,CF,cff,筹资活动产生的现金流量净额,3491815978.44,CNY,consolidated,20260428.pdf,105,"筹资活动产生的现金流量净额 3,491,815,978.44 6,559,859,516.52",source_numeric,1
+2025,2024,comparative,CF,cff,筹资活动产生的现金流量净额,6559859516.52,CNY,consolidated,20260428.pdf,105,"筹资活动产生的现金流量净额 3,491,815,978.44 6,559,859,516.52",source_numeric,2
+2025,2025,current,CF,cash_begin,加：期初现金及现金等价物余额,14217771011.92,CNY,consolidated,20260428.pdf,105,"加：期初现金及现金等价物余额 14,217,771,011.92 12,071,044,966.34",source_numeric,1
+2025,2024,comparative,CF,cash_begin,加：期初现金及现金等价物余额,12071044966.34,CNY,consolidated,20260428.pdf,105,"加：期初现金及现金等价物余额 14,217,771,011.92 12,071,044,966.34",source_numeric,2
+2025,2025,current,CF,cash_end,期末现金及现金等价物余额,10257669704.56,CNY,consolidated,20260428.pdf,105,"六、期末现金及现金等价物余额 10,257,669,704.56 14,217,771,011.92",source_numeric,1
+2025,2024,comparative,CF,cash_end,期末现金及现金等价物余额,14217771011.92,CNY,consolidated,20260428.pdf,105,"六、期末现金及现金等价物余额 10,257,669,704.56 14,217,771,011.92",source_numeric,2

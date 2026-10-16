@@ -1,0 +1,14 @@
+﻿check,actual,expected,passed,note
+two_project_price_reduction,214385700,214385700,True,
+taonan_three_nominal_instalments,0,0,True,
+cgn_balance_decrease,39400000,39400000,True,
+subsequent_aggregate_cash_amount_equal_to_cgn_change,0,0,True,仅金额吻合；不标记为对手或项目现金匹配成功
+2019_asset_identity,0.00,0,True,
+2020_asset_identity,0.00,0,True,
+2021_asset_identity,0.00,0,True,
+2022_asset_identity,0.00,0,True,
+2023_asset_identity,0.00,0,True,
+2024_asset_identity,0.00,0,True,
+2025_asset_identity,0.00,0,True,
+finance_expense_2025_components,515530966.30,515530966.30,True,
+finance_expense_2024_components,342440213.42,342440213.42,True,
