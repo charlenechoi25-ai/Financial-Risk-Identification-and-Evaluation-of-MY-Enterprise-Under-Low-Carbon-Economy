@@ -14,3 +14,10 @@
 | [06_chapter3_operating_cycle.xlsx](06_chapter3_operating_cycle.xlsx) | 第三章经营占用与项目回收证据 |
 
 注意：02 仅修正税费相关单元格，尚不是完全清洗后的最终数据；公式缓存可能需要在 Excel 中重新计算。不同披露版本和重述数据保留各自口径。第三章外部环境证据仍有待补充独立政策原文核验。
+
+## 后续第三章补充
+
+- [07_chapter3_external_policy.xlsx](07_chapter3_external_policy.xlsx)：两项官方政策、九条原文摘录及企业传导边界。
+- [第三章外部环境分析初稿](chapter3_external_environment.md)：中文解读、公司财务证据对照及官方网站链接。
+
+07对原有工作簿中“官方政策原文尚未核验”的早期状态作补充；行业统计及地方规则仍待核验。
